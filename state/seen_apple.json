@@ -1,0 +1,1154 @@
+{
+ "200591952": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-10-12",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SoC Physical Design Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200591952/soc-physical-design-engineer"
+ },
+ "200593820": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-03-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "STA engineer",
+  "url": "https://jobs.apple.com/en-il/details/200593820/sta-engineer"
+ },
+ "200611225": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-07-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded FW Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200611225/embedded-fw-engineer"
+ },
+ "200620793": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-09-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "VLSI Product Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200620793/vlsi-product-engineer"
+ },
+ "200621094": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Israel",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-09-16",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CPU Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200621094/cpu-verification-engineer"
+ },
+ "200621526": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2025-09-17",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "IP Pixel RTL Design Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200621526/ip-pixel-rtl-design-engineer"
+ },
+ "200623374": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2025-09-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Verification Engineer - Camera",
+  "url": "https://jobs.apple.com/en-il/details/200623374/design-verification-engineer-camera"
+ },
+ "200623639": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-08-17",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SW Developer For Validation-SSD",
+  "url": "https://jobs.apple.com/en-il/details/200623639/sw-developer-for-validation-ssd"
+ },
+ "200625015": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-08-26",
+  "reason": "המשרה דורשת תואר שני או דוקטורט בפוטוניקה ואופטיקה מתקדמת, ואת לא נמצאת בתחום הזה, אבל יש לך ניסיון בתכנון ובדיקת חומרה שעשוי להיות רלוונטי בעתיד.",
+  "score": 2,
+  "sent": false,
+  "tier": "student",
+  "title": "MS.c/ Ph.D Advanced Optics Research Student — Camera HW",
+  "url": "https://jobs.apple.com/en-il/details/200625015/ms-c-ph-d-advanced-optics-research-student-camera-hw"
+ },
+ "200625322": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-10-12",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Performance Modeling Architect",
+  "url": "https://jobs.apple.com/en-il/details/200625322/performance-modeling-architect"
+ },
+ "200627065": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Engineer for AR/VR Systems - Apple Vision Pro",
+  "url": "https://jobs.apple.com/en-il/details/200627065/senior-software-engineer-for-ar-vr-systems-apple-vision-pro"
+ },
+ "200627103": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-10-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200627103/design-verification-engineer"
+ },
+ "200627584": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "C/C++ Software engineer",
+  "url": "https://jobs.apple.com/en-il/details/200627584/c-c-software-engineer"
+ },
+ "200631199": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-11-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "VLSI Test and Product Engineering",
+  "url": "https://jobs.apple.com/en-il/details/200631199/vlsi-test-and-product-engineering"
+ },
+ "200639181": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2025-12-24",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SoC Power Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200639181/soc-power-engineer"
+ },
+ "200648117": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-02-23",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "iCloud Drive — Software, Test Automation & Infrastructure Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200648117/icloud-drive-software-test-automation-infrastructure-engineer"
+ },
+ "200659630": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-04-23",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded SW Engineer -  System & Firmware Diagnostics",
+  "url": "https://jobs.apple.com/en-il/details/200659630/embedded-sw-engineer-system-firmware-diagnostics"
+ },
+ "200661832": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Engineering Program Manager - SoC Silicon Group",
+  "url": "https://jobs.apple.com/en-il/details/200661832/engineering-program-manager-soc-silicon-group"
+ },
+ "200665396": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-27",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Experimental Physicist - Q",
+  "url": "https://jobs.apple.com/en-il/details/200665396/experimental-physicist-q"
+ },
+ "200665600": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Audio Machine Learning Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665600/q-audio-machine-learning-engineer"
+ },
+ "200665610": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Engineer - Q",
+  "url": "https://jobs.apple.com/en-il/details/200665610/system-engineer-q"
+ },
+ "200665626": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Machine Learning Engineer - Vision",
+  "url": "https://jobs.apple.com/en-il/details/200665626/q-machine-learning-engineer-vision"
+ },
+ "200665627": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Machine Learning Engineer - Speech",
+  "url": "https://jobs.apple.com/en-il/details/200665627/q-machine-learning-engineer-speech"
+ },
+ "200665634": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Machine Learning Researcher – Edge & Efficient AI",
+  "url": "https://jobs.apple.com/en-il/details/200665634/q-machine-learning-researcher-edge-efficient-ai"
+ },
+ "200665657": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Senior Sensor & Embedded Systems Validation Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665657/q-senior-sensor-embedded-systems-validation-engineer"
+ },
+ "200665679": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Senior iOS Applications Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665679/q-senior-ios-applications-engineer"
+ },
+ "200665680": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Senior Electro-Optical Systems Validation Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665680/q-senior-electro-optical-systems-validation-engineer"
+ },
+ "200665683": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Validation & Characterization HW Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665683/q-validation-characterization-hw-engineer"
+ },
+ "200665695": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - DSP Real-time Embedded Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665695/q-dsp-real-time-embedded-engineer"
+ },
+ "200665701": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-05-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Real - Time Embedded Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200665701/q-real-time-embedded-engineer"
+ },
+ "200666036": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CAD Engineer - Static Timing Analysis & Physical Design",
+  "url": "https://jobs.apple.com/en-il/details/200666036/cad-engineer-static-timing-analysis-physical-design"
+ },
+ "200666044": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-06-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - MLops Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200666044/q-mlops-engineer"
+ },
+ "200666053": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-06-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Software Data Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200666053/q-software-data-engineer"
+ },
+ "200666054": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-06-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Silicon Validation Embedded Engineer - GPU IP",
+  "url": "https://jobs.apple.com/en-il/details/200666054/silicon-validation-embedded-engineer-gpu-ip"
+ },
+ "200666549": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-06-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - SW Developer for Test Automation & Infrastructure Team",
+  "url": "https://jobs.apple.com/en-il/details/200666549/q-sw-developer-for-test-automation-infrastructure-team"
+ },
+ "200669536": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-06-23",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Security Researcher – Red Team",
+  "url": "https://jobs.apple.com/en-il/details/200669536/senior-security-researcher-red-team"
+ },
+ "200669966": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Wireless System Engineering Program Manager",
+  "url": "https://jobs.apple.com/en-il/details/200669966/wireless-system-engineering-program-manager"
+ },
+ "200671079": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-07-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Computer Vision Researcher-Video Restoration",
+  "url": "https://jobs.apple.com/en-il/details/200671079/computer-vision-researcher-video-restoration"
+ },
+ "200672340": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-07-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Platform Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200672340/embedded-platform-engineer"
+ },
+ "200673054": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-07-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Senior Software QA Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200673054/q-senior-software-qa-engineer"
+ },
+ "200674773": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-08-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Full Stack Developer : Agentic AI",
+  "url": "https://jobs.apple.com/en-il/details/200674773/full-stack-developer-agentic-ai"
+ },
+ "200675366": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-08-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CAD Engineer – PDV",
+  "url": "https://jobs.apple.com/en-il/details/200675366/cad-engineer-pdv"
+ },
+ "200676938": {
+  "first_seen": "2026-11-01T17:16:19+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-09-23",
+  "reason": "המשרה הזו מתאימה לך מאוד: היא משרת סטודנטים בתחום החומרה למהנדסי חשמל ואלקטרוניקה בשנה השלישית, ואת עונה על דרישת 3 הסמסטרים ועל היתרון בפייתון וC/C++.",
+  "score": 9,
+  "sent": true,
+  "tier": "student",
+  "title": "Hardware Engineering Student",
+  "url": "https://jobs.apple.com/en-il/details/200676938/hardware-engineering-student"
+ },
+ "200676939": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-10-05",
+  "reason": "התפקיד הוא סטודנטית בתוכנה ברמה נמוכה, והוא מתאים לך בזכות ניסיון ב-C/C++ ו-Python, אך הוא פחות ממוקד בחומרה ממה שאת מחפשת.",
+  "score": 6,
+  "sent": true,
+  "tier": "student",
+  "title": "Software Engineering Student",
+  "url": "https://jobs.apple.com/en-il/details/200676939/software-engineering-student"
+ },
+ "200676944": {
+  "first_seen": "2026-11-01T17:16:27+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-08-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Engineer for Networking Silicon Validation Team",
+  "url": "https://jobs.apple.com/en-il/details/200676944/embedded-engineer-for-networking-silicon-validation-team"
+ },
+ "200681169": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Optical Characterization Lead Engineer — Camera HW",
+  "url": "https://jobs.apple.com/en-il/details/200681169/optical-characterization-lead-engineer-camera-hw"
+ },
+ "200682191": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Camera Systems Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200682191/senior-camera-systems-engineer"
+ },
+ "200682345": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "iOS Software Engineer- Location Technologies",
+  "url": "https://jobs.apple.com/en-il/details/200682345/ios-software-engineer-location-technologies"
+ },
+ "200682904": {
+  "first_seen": "2026-11-01T17:16:23+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-10",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Advanced Optics Design Engineer — Camera HW",
+  "url": "https://jobs.apple.com/en-il/details/200682904/advanced-optics-design-engineer-camera-hw"
+ },
+ "200686105": {
+  "first_seen": "2026-11-01T17:16:19+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - SRE-DevOps Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200686105/q-sre-devops-engineer"
+ },
+ "200686340": {
+  "first_seen": "2026-11-01T17:16:19+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-09-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CAD Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200686340/cad-design-verification-engineer"
+ },
+ "200686344": {
+  "first_seen": "2026-11-01T17:16:19+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Embedded Engineer for the Silicon validation team",
+  "url": "https://jobs.apple.com/en-il/details/200686344/senior-embedded-engineer-for-the-silicon-validation-team"
+ },
+ "200686347": {
+  "first_seen": "2026-11-01T17:16:19+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-09-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Engineer for the Silicon validation team",
+  "url": "https://jobs.apple.com/en-il/details/200686347/embedded-engineer-for-the-silicon-validation-team"
+ },
+ "200687166": {
+  "first_seen": "2026-11-01T17:16:19+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Low-level Software Engineer, Platform Architecture",
+  "url": "https://jobs.apple.com/en-il/details/200687166/low-level-software-engineer-platform-architecture"
+ },
+ "200687183": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Analog Layout Automation Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200687183/analog-layout-automation-engineer"
+ },
+ "200687658": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Wireless Testing Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200687658/wireless-testing-engineer"
+ },
+ "200687675": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Cellular SW Tools Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200687675/cellular-sw-tools-engineer"
+ },
+ "200687696": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-10-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Wireless SoC Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200687696/wireless-soc-design-verification-engineer"
+ },
+ "200687900": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-10-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CAD Software Developer Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200687900/cad-software-developer-engineer"
+ },
+ "200687915": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System  Performance Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200687915/system-performance-engineer"
+ },
+ "200688377": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-10-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "FE integration & STA IP Lead- Advanced Technologies Group",
+  "url": "https://jobs.apple.com/en-il/details/200688377/fe-integration-sta-ip-lead-advanced-technologies-group"
+ },
+ "200688378": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel",
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "IP Logic Design Engineer - Advanced Technologies Group",
+  "url": "https://jobs.apple.com/en-il/details/200688378/ip-logic-design-engineer-advanced-technologies-group"
+ },
+ "200688385": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "WiFi FW Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200688385/wifi-fw-engineer"
+ },
+ "200690048": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200690048/design-verification-engineer"
+ },
+ "200690051": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200690051/design-verification-engineer"
+ },
+ "200690122": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "ASIC Design Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200690122/asic-design-engineer"
+ },
+ "200690124": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200690124/design-engineer"
+ },
+ "200690137": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel",
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Engineer for SOC Group",
+  "url": "https://jobs.apple.com/en-il/details/200690137/design-engineer-for-soc-group"
+ },
+ "200690337": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q - Automation Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200690337/q-automation-engineer"
+ },
+ "200691527": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Analog Design Engineer - Advanced Technologies Group",
+  "url": "https://jobs.apple.com/en-il/details/200691527/analog-design-engineer-advanced-technologies-group"
+ },
+ "200691528": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Israel",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-10-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SoC Physical Design Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200691528/soc-physical-design-engineer"
+ },
+ "200691529": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": "התפקיד דורש ניסיון עמוק בלמידת מכונה, מודלים גדולים ומחקר לדוקטורט, ולכן הוא רחוק מאוד מהפרופיל שלך כסטודנטית להנדסת חשמל ואלקטרוניקה בשנה השלישית.",
+  "score": 2,
+  "sent": false,
+  "tier": "student",
+  "title": "Machine Learning Ph.D Student - Agentic AI",
+  "url": "https://jobs.apple.com/en-il/details/200691529/machine-learning-ph-d-student-agentic-ai"
+ },
+ "200692172": {
+  "first_seen": "2026-11-01T17:16:15+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Machine Learning Engineer - Agentic AI",
+  "url": "https://jobs.apple.com/en-il/details/200692172/machine-learning-engineer-agentic-ai"
+ },
+ "200692193": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Post Silicon Performance Architect",
+  "url": "https://jobs.apple.com/en-il/details/200692193/post-silicon-performance-architect"
+ },
+ "200692198": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Full Stack Engineer - Q",
+  "url": "https://jobs.apple.com/en-il/details/200692198/senior-full-stack-engineer-q"
+ },
+ "200692199": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Cloud Infrastructure Engineer- Q",
+  "url": "https://jobs.apple.com/en-il/details/200692199/senior-cloud-infrastructure-engineer-q"
+ },
+ "200692205": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "IP Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200692205/ip-design-verification-engineer"
+ },
+ "200692416": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "ASIC Logic Design Engineer for Wireless SoC Group",
+  "url": "https://jobs.apple.com/en-il/details/200692416/asic-logic-design-engineer-for-wireless-soc-group"
+ },
+ "200692428": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Signal/Image Processing & Machine Learning Engineer - Sensing Technologies & Real-Time Models",
+  "url": "https://jobs.apple.com/en-il/details/200692428/senior-signal-image-processing-machine-learning-engineer-sensing-technologies-real-time-models"
+ },
+ "200692786": {
+  "first_seen": "2026-11-01T17:16:11+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya",
+   "Jerusalem"
+  ],
+  "open": true,
+  "posted": "2026-11-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CAD RTL/FE Manager",
+  "url": "https://jobs.apple.com/en-il/details/200692786/cad-rtl-fe-manager"
+ }
+}
