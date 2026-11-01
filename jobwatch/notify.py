@@ -16,7 +16,7 @@ def send(text: str, *, admin: bool = False, dry_run: bool = False) -> None:
     if dry_run:
         print("----- telegram (dry run) -----\n" + text + "\n------------------------------")
         return
-    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    token = os.environ["TELEGRAM_BOT_TOKEN"].strip()  # secrets pasted in the GitHub UI often keep a trailing newline
     chats = (admin and _chat_ids("TELEGRAM_ADMIN_CHAT_ID")) or _chat_ids("TELEGRAM_CHAT_ID")
     for chunk in _chunks(text):
         for chat in chats:
