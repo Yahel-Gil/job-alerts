@@ -1,0 +1,80 @@
+# Search settings. You can edit this file without touching any code.
+
+# Companies to scan (remove one from the list to stop scanning it)
+companies: [nvidia, intel, amat, apple, microsoft]
+
+# Words in the title that mark a student position
+student_patterns:
+  - '\bstudents?\b'
+  - '\bintern(s|ship|ships)?\b'
+  - '\bco-?op\b'
+  - 'סטודנט'
+
+# Words in the title that mark a junior position (only if it's not a student position)
+junior_patterns:
+  - '\bjunior\b'
+  - '\bentry[- ]level\b'
+  - '\bnew (college )?grad(uate)?s?\b'
+  - '\bgraduate\b'
+  - '\bno experience\b'
+
+# A junior position with these words in the title is dropped (it's not really junior)
+senior_patterns:
+  - '\bsenior\b'
+  - '\bsr\.?\b'
+  - '\bprincipal\b'
+  - '\bstaff\b'
+  - '\blead\b'
+  - '\bmanager\b'
+  - '\bdirector\b'
+  - '\barchitect\b'
+  - '\bhead of\b'
+
+# Relevant fields (from the Word file plus related terms). Matched against the title and team.
+domain_keywords:
+  - logic design
+  - asic
+  - chip
+  - vlsi
+  - rtl
+  - fpga
+  - soc
+  - hardware
+  - hw
+  - verification
+  - validation
+  - post-silicon
+  - post silicon
+  - silicon
+  - emulation
+  - characterization
+  - physical design
+  - backend
+  - layout
+  - dft
+  - board
+  - pcb
+  - integration
+  - system validation
+  - qa
+  - embedded
+  - firmware
+  - analog
+  - rf
+  - mixed-signal
+  - mixed signal
+  - lab
+  - electrical
+  - circuit
+  - test engineer
+  - bring-up
+  - bringup
+
+# Thresholds for the AI fit score (1-10)
+ai:
+  model: claude-haiku-5-5
+  student_without_domain_min_score: 6   # student position that didn't match a field keyword
+  junior_min_score: 7                   # junior position (needs a field keyword AND this score)
+
+# Health check: alert after this many consecutive failures of a site
+health_alert_after_failures: 3
