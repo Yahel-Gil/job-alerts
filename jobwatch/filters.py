@@ -28,9 +28,10 @@ def should_send(tier_: str | None, hits: list[str], score: int | None, cfg: dict
     """score is None when AI scoring is unavailable; then we lean towards sending so nothing is missed."""
     ai = cfg["ai"]
     if tier_ == "student":
-        if hits:
+        if score is None:
             return True
-        return score is None or score >= ai["student_without_domain_min_score"]
+        min_score = ai["student_with_domain_min_score"] if hits else ai["student_without_domain_min_score"]
+        return score >= min_score
     if tier_ == "junior":
         return bool(hits) and (score is None or score >= ai["junior_min_score"])
     return False

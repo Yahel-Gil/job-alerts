@@ -39,7 +39,8 @@ def test_domain_hits_use_word_edges():
 
 @pytest.mark.parametrize("tier,hits,score,expected", [
     ("student", ["asic"], None, True),
-    ("student", ["asic"], 2, True),     # keyword match always goes out
+    ("student", ["asic"], 4, True),     # keyword match needs only a low bar
+    ("student", ["hw"], 2, False),      # ...but a clear misfit (e.g. PhD-only research) is dropped
     ("student", [], None, True),        # AI unavailable: don't risk missing it
     ("student", [], 5, False),
     ("student", [], 6, True),

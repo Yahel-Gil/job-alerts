@@ -73,6 +73,7 @@ domain_keywords:
 # Thresholds for the AI fit score (1-10)
 ai:
   model: claude-haiku-5-5
+  student_with_domain_min_score: 4      # student position that matched a field keyword (drops only clear misfits, e.g. PhD-only)
   student_without_domain_min_score: 6   # student position that didn't match a field keyword
   junior_min_score: 7                   # junior position (needs a field keyword AND this score)
 
