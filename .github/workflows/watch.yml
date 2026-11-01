@@ -37,4 +37,4 @@ jobs:
         run: python -m jobwatch --company ${{ matrix.company }}
       - name: Save state
         if: always()
-        run: bash .github/scripts/commit_state.sh "state: ${{ matrix.company }}"
+        run: bash .github/scripts/commit_state.sh "state ${{ matrix.company }}"
