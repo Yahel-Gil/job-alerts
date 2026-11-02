@@ -1,8 +1,7 @@
 name: digest
 
+# Triggered by cron-job.org at 20:00 Israel time (it handles daylight saving), via workflow_dispatch.
 on:
-  schedule:
-    - cron: "0 18 * * *"   # 20:00 Israel winter time (21:00 in summer)
   workflow_dispatch:
 
 permissions:

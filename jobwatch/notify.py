@@ -1,8 +1,12 @@
 """Telegram messages. TELEGRAM_CHAT_ID may hold several ids separated by commas (group or private chats)."""
 import html
 import os
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import requests
+
+from . import config
 
 LIMIT = 4000  # Telegram caps a message at 4096 chars
 
@@ -18,14 +22,23 @@ def send(text: str, *, admin: bool = False, dry_run: bool = False) -> None:
         return
     token = os.environ["TELEGRAM_BOT_TOKEN"].strip()  # secrets pasted in the GitHub UI often keep a trailing newline
     chats = (admin and _chat_ids("TELEGRAM_ADMIN_CHAT_ID")) or _chat_ids("TELEGRAM_CHAT_ID")
+    silent = is_quiet_hours()
     for chunk in _chunks(text):
         for chat in chats:
             r = requests.post(
                 f"https://api.telegram.org/bot{token}/sendMessage",
-                json={"chat_id": chat, "text": chunk, "parse_mode": "HTML", "disable_web_page_preview": True},
+                json={"chat_id": chat, "text": chunk, "parse_mode": "HTML",
+                      "disable_web_page_preview": True, "disable_notification": silent},
                 timeout=30,
             )
             r.raise_for_status()
+
+
+def is_quiet_hours(now: datetime | None = None) -> bool:
+    """At night messages still arrive, just without sound or vibration."""
+    q = config.load()["quiet_hours"]
+    hour = (now or datetime.now(ZoneInfo(q["timezone"]))).hour
+    return hour >= q["start"] or hour < q["end"]
 
 
 def _chunks(text: str) -> list[str]:

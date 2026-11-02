@@ -1,9 +1,11 @@
 name: watch
 
+# The main trigger is cron-job.org calling workflow_dispatch every 15 minutes, because GitHub's own
+# scheduler drops frequent runs (we saw 4 runs in 16 hours). The hourly schedule is only a backup.
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes (GitHub sometimes runs a few minutes late)
   workflow_dispatch:
+  schedule:
+    - cron: "23 * * * *"
 
 permissions:
   contents: write
@@ -35,6 +37,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PROFILE_TEXT: ${{ secrets.PROFILE_TEXT }}
         run: python -m jobwatch --company ${{ matrix.company }}
+      # Dead-man's switch: healthchecks.io alerts on Telegram when these pings stop arriving.
+      - name: Ping healthchecks.io
+        env:
+          HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
+        run: '[ -z "$HEALTHCHECK_URL" ] || curl -fsS -m 10 --retry 3 -o /dev/null "$HEALTHCHECK_URL"'
       - name: Save state
         if: always()
         run: bash .github/scripts/commit_state.sh "state ${{ matrix.company }}"

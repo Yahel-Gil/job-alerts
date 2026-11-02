@@ -37,6 +37,14 @@ def test_domain_hits_use_word_edges():
     assert filters.domain_hits(job("Data Science Intern"), CFG) == []
 
 
+@pytest.mark.parametrize("hour,quiet", [(21, False), (22, True), (2, True), (6, True), (7, False), (13, False)])
+def test_quiet_hours(hour, quiet):
+    from datetime import datetime
+
+    from jobwatch import notify
+    assert notify.is_quiet_hours(datetime(2026, 11, 2, hour, 30)) is quiet
+
+
 @pytest.mark.parametrize("tier,hits,score,expected", [
     ("student", ["asic"], None, True),
     ("student", ["asic"], 4, True),     # keyword match needs only a low bar

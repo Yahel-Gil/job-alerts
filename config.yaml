@@ -77,5 +77,11 @@ ai:
   student_without_domain_min_score: 6   # student position that didn't match a field keyword
   junior_min_score: 7                   # junior position (needs a field keyword AND this score)
 
+# At night, messages are sent silently (no sound or vibration) and are waiting in the morning
+quiet_hours:
+  timezone: Asia/Jerusalem
+  start: 22   # from 22:00
+  end: 7      # until 07:00
+
 # Health check: alert after this many consecutive failures of a site
 health_alert_after_failures: 3
