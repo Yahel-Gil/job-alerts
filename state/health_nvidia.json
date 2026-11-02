@@ -1,5 +1,5 @@
 {
  "alerted": false,
- "failures": 0,
- "last_error": null
+ "failures": 1,
+ "last_error": "KeyError: 'externalPath'"
 }
