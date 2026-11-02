@@ -153,7 +153,7 @@
    "Multiple Locations, Multiple Locations",
    "Haifa, Haifa"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-13",
   "reason": null,
   "score": null,
@@ -201,7 +201,7 @@
    "Haifa, Haifa",
    "Tel Aviv, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-13",
   "reason": null,
   "score": null,
@@ -235,7 +235,7 @@
   "locations": [
    "Multiple Locations, Multiple Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-13",
   "reason": null,
   "score": null,
