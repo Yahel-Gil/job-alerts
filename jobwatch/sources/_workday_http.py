@@ -31,7 +31,8 @@ def all_postings(s, base: str, applied_facets: dict) -> tuple[list[dict], list[d
         if not page:
             break
         postings.extend(page)
-    return postings, first.get("facets", [])
+    # Workday occasionally returns a stub posting without a path (seen once at NVIDIA); it has no page to link to.
+    return [p for p in postings if p.get("externalPath")], first.get("facets", [])
 
 
 def tagged_paths(s, base: str, israel: dict, param: str, ids: list[str]) -> set[str]:

@@ -71,6 +71,13 @@ def test_workday_nested_facets_and_missing_israel():
         nvidia._israel([])
 
 
+def test_workday_skips_postings_without_path(monkeypatch):
+    page = {"total": 2, "jobPostings": [{"title": "stub"}, {"title": "Real", "externalPath": "/job/x"}], "facets": []}
+    monkeypatch.setattr(wd, "get_json", lambda *a, **k: page)
+    postings, _ = wd.all_postings(None, "https://x", {})
+    assert [p["title"] for p in postings] == ["Real"]
+
+
 def test_workday_refuses_unfiltered_results(monkeypatch):
     monkeypatch.setattr(wd, "get_json", lambda *a, **k: {"total": 2000, "jobPostings": [], "facets": []})
     with pytest.raises(SourceError):
