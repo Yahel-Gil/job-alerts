@@ -942,7 +942,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -2034,7 +2034,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -2547,6 +2547,20 @@
   "title": "Senior AI Engineer and Agentic Platforms - Network Architecture",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer--AI-Agents-and-Software-Platforms_JR2018953"
  },
+ "/job/Israel-Tel-Aviv/Software-Engineer--AI-Infrastructure_JR2028826": {
+  "first_seen": "2026-11-02T10:00:53+00:00",
+  "locations": [
+   "Israel, Tel Aviv"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer, AI Infrastructure",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer--AI-Infrastructure_JR2028826"
+ },
  "/job/Israel-Tel-Aviv/Software-Engineer--AI-Networking-Architect_JR2018966": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
@@ -2636,7 +2650,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -2734,7 +2748,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 19 Days Ago",
   "reason": null,
   "score": null,
@@ -2994,6 +3008,20 @@
   "tier": null,
   "title": "IC Packaging Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/IC-Packaging-Engineer_JR2015252"
+ },
+ "/job/Israel-Yokneam/IC-Practical-Engineer_JR2022657": {
+  "first_seen": "2026-11-02T10:00:53+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "IC Practical Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/IC-Practical-Engineer_JR2022657"
  },
  "/job/Israel-Yokneam/IC-Test-Engineer_JR2023378": {
   "first_seen": "2026-11-01T17:16:32+00:00",
@@ -3980,7 +4008,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 12 Days Ago",
   "reason": null,
   "score": null,
@@ -4184,6 +4212,20 @@
   "tier": null,
   "title": "Senior IC Packaging Process Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-IC-Packaging-Process-Engineer_JR2028291"
+ },
+ "/job/Israel-Yokneam/Senior-ICPE-Production-Security-Software-Engineer_JR2028963-2": {
+  "first_seen": "2026-11-02T10:00:53+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior ICPE Production Security Software Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-ICPE-Production-Security-Software-Engineer_JR2028963-2"
  },
  "/job/Israel-Yokneam/Senior-IT-Enterprise-Security-Engineer_JR2024000": {
   "first_seen": "2026-11-01T17:16:34+00:00",
@@ -5674,7 +5716,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
