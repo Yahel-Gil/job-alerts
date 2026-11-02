@@ -1164,5 +1164,33 @@
   "tier": null,
   "title": "CAD RTL/FE Manager",
   "url": "https://jobs.apple.com/en-il/details/200692786/cad-rtl-fe-manager"
+ },
+ "200692856": {
+  "first_seen": "2026-11-02T10:30:30+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-02",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Testing Engineer - Wireless Validation Lab",
+  "url": "https://jobs.apple.com/en-il/details/200692856/testing-engineer-wireless-validation-lab"
+ },
+ "200692858": {
+  "first_seen": "2026-11-02T10:30:30+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-02",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "BT SW Engineer in Test",
+  "url": "https://jobs.apple.com/en-il/details/200692858/bt-sw-engineer-in-test"
  }
 }
