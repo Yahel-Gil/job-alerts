@@ -4381,6 +4381,20 @@
   "title": "Senior NPI Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-NPI-Engineer_JR2026101"
  },
+ "/job/Israel-Yokneam/Senior-NPI-Engineering-Build-Manager_JR2026431": {
+  "first_seen": "2026-11-02T10:30:50+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior NPI Engineering Build Manager",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-NPI-Engineering-Build-Manager_JR2026431"
+ },
  "/job/Israel-Yokneam/Senior-NPI-Hardware-Quality-Engineer_JR2019772": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
@@ -5114,7 +5128,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
