@@ -1782,7 +1782,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 28 Days Ago",
   "reason": null,
   "score": null,
@@ -2882,6 +2882,20 @@
   "tier": null,
   "title": "Director, Networking AI and HPC Clusters Infrastructure",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--AI-and-HPC-Cluster_JR2027384"
+ },
+ "/job/Israel-Yokneam/Director--Product-Management---DOCA_JR2019875": {
+  "first_seen": "2026-11-02T21:01:07+00:00",
+  "locations": [
+   "3 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Director, Product Management – DOCA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--Product-Management---DOCA_JR2019875"
  },
  "/job/Israel-Yokneam/Director--Reliability-Hardware-System_JR2013938": {
   "first_seen": "2026-11-01T17:16:34+00:00",
