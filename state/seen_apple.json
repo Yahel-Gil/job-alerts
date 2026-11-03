@@ -1375,5 +1375,19 @@
   "tier": null,
   "title": "Software Middleware Team Lead - Q",
   "url": "https://jobs.apple.com/en-il/details/200693134/software-middleware-team-lead-q"
+ },
+ "200693135": {
+  "first_seen": "2026-11-03T14:45:22+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "DevOps Engineer for Embedded Systems - Q",
+  "url": "https://jobs.apple.com/en-il/details/200693135/devops-engineer-for-embedded-systems-q"
  }
 }
