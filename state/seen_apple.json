@@ -1305,5 +1305,19 @@
   "tier": null,
   "title": "AI Research Engineer - Chip Design",
   "url": "https://jobs.apple.com/en-il/details/200693100/ai-research-engineer-chip-design"
+ },
+ "200693125": {
+  "first_seen": "2026-11-03T12:30:31+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Camera Hardware System Engineering Program Manager",
+  "url": "https://jobs.apple.com/en-il/details/200693125/camera-hardware-system-engineering-program-manager"
  }
 }
