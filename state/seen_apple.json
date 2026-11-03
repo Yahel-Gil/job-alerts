@@ -1276,5 +1276,20 @@
   "tier": null,
   "title": "PD STA engineer",
   "url": "https://jobs.apple.com/en-il/details/200692878/pd-sta-engineer"
+ },
+ "200693100": {
+  "first_seen": "2026-11-03T10:30:29+00:00",
+  "locations": [
+   "Haifa",
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "AI Research Engineer - Chip Design",
+  "url": "https://jobs.apple.com/en-il/details/200693100/ai-research-engineer-chip-design"
  }
 }
