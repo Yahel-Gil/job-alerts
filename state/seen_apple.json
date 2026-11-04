@@ -1205,6 +1205,20 @@
   "title": "Physics & Optical Simulation Software Engineer - Q",
   "url": "https://jobs.apple.com/en-il/details/200692526/physics-optical-simulation-software-engineer-q"
  },
+ "200692783": {
+  "first_seen": "2026-11-04T07:15:26+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-11-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CPU Microarchitect/RTL Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200692783/cpu-microarchitect-rtl-engineer"
+ },
  "200692786": {
   "first_seen": "2026-11-01T17:16:11+00:00",
   "locations": [
@@ -1389,5 +1403,19 @@
   "tier": null,
   "title": "DevOps Engineer for Embedded Systems - Q",
   "url": "https://jobs.apple.com/en-il/details/200693135/devops-engineer-for-embedded-systems-q"
+ },
+ "200693368": {
+  "first_seen": "2026-11-04T07:15:26+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software QA Team Lead - Q",
+  "url": "https://jobs.apple.com/en-il/details/200693368/software-qa-team-lead-q"
  }
 }
