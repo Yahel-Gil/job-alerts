@@ -138,7 +138,7 @@
    "Multiple Locations, Multiple Locations",
    "Tel Aviv, Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-11",
   "reason": null,
   "score": null,
@@ -305,7 +305,7 @@
   "locations": [
    "Tel Aviv, Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-10-18",
   "reason": null,
   "score": null,
@@ -341,6 +341,20 @@
   "tier": "student",
   "title": "Security Research Internship Opportunities",
   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042488"
+ },
+ "1970393557043117": {
+  "first_seen": "2026-11-04T10:30:33+00:00",
+  "locations": [
+   "Multiple Locations, Multiple Locations"
+  ],
+  "open": true,
+  "posted": "2026-11-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Customer Relationship Manager",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557043117"
  },
  "1970393557043279": {
   "first_seen": "2026-11-01T17:16:18+00:00",
