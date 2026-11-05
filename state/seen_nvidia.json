@@ -2183,6 +2183,20 @@
   "title": "Senior SOC Verification Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Verification-Engineer_JR2020497"
  },
+ "/job/Israel-Tel-Aviv/Senior-SRE-Engineer_JR2029097": {
+  "first_seen": "2026-11-05T23:30:51+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior SRE Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SRE-Engineer_JR2029097"
+ },
  "/job/Israel-Tel-Aviv/Senior-STA-Engineer_JR2028104": {
   "first_seen": "2026-11-02T12:45:54+00:00",
   "locations": [
@@ -5632,7 +5646,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
