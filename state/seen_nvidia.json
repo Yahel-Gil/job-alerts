@@ -1432,7 +1432,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -3182,7 +3182,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 12 Days Ago",
   "reason": null,
   "score": null,
@@ -3602,7 +3602,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -3938,7 +3938,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 26 Days Ago",
   "reason": null,
   "score": null,
@@ -5674,7 +5674,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 3 Days Ago",
   "reason": null,
   "score": null,
