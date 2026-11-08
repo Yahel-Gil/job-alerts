@@ -3644,7 +3644,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 18 Days Ago",
   "reason": null,
   "score": null,
@@ -6220,7 +6220,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
