@@ -3014,7 +3014,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -3022,6 +3022,20 @@
   "tier": null,
   "title": "Design Automation Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Design-Automation-Engineer_JR2021967"
+ },
+ "/job/Israel-Yokneam/DevOps-and-Automation-Engineer---ICPE_JR2025436-1": {
+  "first_seen": "2026-11-08T08:45:38+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "DevOps and Automation Engineer – ICPE",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-and-Automation-Engineer---ICPE_JR2025436-1"
  },
  "/job/Israel-Yokneam/Director--AI-and-HPC-Cluster_JR2027384": {
   "first_seen": "2026-11-01T17:16:32+00:00",
@@ -3288,6 +3302,20 @@
   "tier": null,
   "title": "IC Packaging Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/IC-Packaging-Engineer_JR2015252"
+ },
+ "/job/Israel-Yokneam/IC-Post-Silicon-Test-Engineer_JR2027533": {
+  "first_seen": "2026-11-08T08:45:38+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "IC Post-Silicon Test Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/IC-Post-Silicon-Test-Engineer_JR2027533"
  },
  "/job/Israel-Yokneam/IC-Practical-Engineer_JR2022657": {
   "first_seen": "2026-11-02T10:00:53+00:00",
