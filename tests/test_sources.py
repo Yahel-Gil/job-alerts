@@ -3,7 +3,7 @@ import pytest
 
 from jobwatch.models import SourceError
 from jobwatch.sources import _workday_http as wd
-from jobwatch.sources import amat, apple, intel, microsoft, nvidia
+from jobwatch.sources import amat, amazon, apple, intel, microsoft, nvidia, qualcomm
 
 from .recorder import replay
 
@@ -60,6 +60,27 @@ def test_microsoft_israel_only(monkeypatch):
     assert len(jobs) == 26
     assert any("INTERN" in j.title.upper() for j in jobs)
     assert microsoft.fetch_description(None, jobs[0])
+
+
+
+def test_amazon_israel_with_inline_description(monkeypatch):
+    replay(monkeypatch, "amazon")
+    jobs = amazon.fetch_jobs(None)
+    _common(jobs, "https://www.amazon.jobs/en/jobs/")
+    assert len(jobs) == 170  # two pages of 100
+    lab = next(j for j in jobs if j.title == "Lab Technician Student, Annapurna Labs")
+    assert lab.locations == ["Haifa"] and lab.team and lab.posted == "2026-09-17"  # "September 17, 2026"
+    assert "Annapurna" in amazon.fetch_description(None, lab)  # no extra request
+
+
+def test_qualcomm_interns_from_department(monkeypatch):
+    replay(monkeypatch, "qualcomm")
+    jobs = qualcomm.fetch_jobs(None)
+    _common(jobs, "https://careers.qualcomm.com/careers/job/")
+    assert len(jobs) == 34
+    assert {"Haifa", "Hod Hasharon", "Kfar-Netter"} >= {l for j in jobs for l in j.locations}
+    assert {j.title for j in jobs if j.tier_hint == "student"} == {"FY27 - AI Driven Test Automation Engineering Intern"}
+    assert qualcomm.fetch_description(None, jobs[0])
 
 
 def test_workday_nested_facets_and_missing_israel():

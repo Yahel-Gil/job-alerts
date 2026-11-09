@@ -1,16 +1,17 @@
 """Record real site responses once, replay them in tests.
 
     .venv/bin/python -m tests.recorder        # re-record every site's fixtures from the live sites
+    .venv/bin/python -m tests.recorder amazon # only one site
 """
 import hashlib
 import json
 from pathlib import Path
 
 from jobwatch import http
-from jobwatch.sources import SOURCES, _workday_http, apple, microsoft
+from jobwatch.sources import SOURCES, _workday_http, amazon, apple, microsoft, qualcomm
 
 FIXTURES = Path(__file__).parent / "fixtures"
-PATCH_POINTS = (_workday_http, apple, microsoft)  # modules that imported get_json by name
+PATCH_POINTS = (_workday_http, apple, microsoft, amazon, qualcomm)  # modules that imported get_json by name
 
 
 def _key(method: str, url: str, kw: dict) -> str:
@@ -31,9 +32,11 @@ def replay(monkeypatch, company: str) -> None:
         monkeypatch.setattr(m, "get_json", fake)
 
 
-def record() -> None:
+def record(only=None) -> None:
     real = http.get_json
     for name, src in SOURCES.items():
+        if only and name not in only:
+            continue
         folder = FIXTURES / name
         folder.mkdir(parents=True, exist_ok=True)
         for old in folder.glob("*.json"):
@@ -55,4 +58,5 @@ def record() -> None:
 
 
 if __name__ == "__main__":
-    record()
+    import sys
+    record(sys.argv[1:])

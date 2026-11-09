@@ -16,7 +16,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        company: [nvidia, intel, amat, apple, microsoft]
+        company: [nvidia, intel, amat, apple, microsoft, amazon, qualcomm]
     concurrency:
       group: scan-${{ matrix.company }}
       cancel-in-progress: false

@@ -1,7 +1,7 @@
 # Search settings. You can edit this file without touching any code.
 
 # Companies to scan (remove one from the list to stop scanning it)
-companies: [nvidia, intel, amat, apple, microsoft]
+companies: [nvidia, intel, amat, apple, microsoft, amazon, qualcomm]
 
 # Words in the title that mark a student position
 student_patterns:
