@@ -1,0 +1,2382 @@
+{
+ "10371014": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-03-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Solutions Architect, Public Sector - Israel",
+  "url": "https://www.amazon.jobs/en/jobs/10371014/senior-solutions-architect-public-sector-israel"
+ },
+ "10375571": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-03-25",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer - Networking drivers, ENA team",
+  "url": "https://www.amazon.jobs/en/jobs/10375571/embedded-software-engineer-networking-drivers-ena-team"
+ },
+ "10379250": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-03-30",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Applied Scientist, Personalization, Personalization Strategic Initiatives Science",
+  "url": "https://www.amazon.jobs/en/jobs/10379250/senior-applied-scientist-personalization-personalization-strategic-initiatives-science"
+ },
+ "10379251": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-03-30",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Personalization, Personalization Strategic Initiatives Science",
+  "url": "https://www.amazon.jobs/en/jobs/10379251/applied-scientist-personalization-personalization-strategic-initiatives-science"
+ },
+ "10396356": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-04-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Development Engineer, Elastic Block Storage, Server Durability Engine",
+  "url": "https://www.amazon.jobs/en/jobs/10396356/senior-software-development-engineer-elastic-block-storage-server-durability-engine"
+ },
+ "10403805": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-04-27",
+  "reason": "התפקיד הזה מיועד לבוגרים או לסטודנטים בשנה השמינית ודורש ידע ב-Verilog, SystemVerilog ו-UVM, כך שכדאי לך להדגיש את הניסיון שלך באימות חומרה ובשילוב מערכות לפני שתגישי מועמדות.",
+  "score": 6,
+  "sent": false,
+  "tier": "junior",
+  "title": "Electrical Engineering Graduate",
+  "url": "https://www.amazon.jobs/en/jobs/10403805/electrical-engineering-graduate"
+ },
+ "10408690": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-05-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Verification Engineer, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/10408690/verification-engineer-graviton-team"
+ },
+ "10409912": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-05-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior DFT Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10409912/senior-dft-engineer"
+ },
+ "10411334": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-05-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10411334/chip-design-engineer"
+ },
+ "10416027": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-05-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Development Engineer (AWS ML), Machine Learning Israel (MLIL) — FLOW sub-team (Fleet Lifecycle & Operational Workflows)",
+  "url": "https://www.amazon.jobs/en/jobs/10416027/senior-software-development-engineer-aws-ml-machine-learning-israel-mlil-flow-sub-team-fleet-lifecycle-operational-workflows"
+ },
+ "10418161": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-05-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Integration Lead, Nitro Chip Design Team",
+  "url": "https://www.amazon.jobs/en/jobs/10418161/chip-design-integration-lead-nitro-chip-design-team"
+ },
+ "10419792": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-05-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer - Shopping Personalization AI, Amazon Stores",
+  "url": "https://www.amazon.jobs/en/jobs/10419792/software-development-engineer-shopping-personalization-ai-amazon-stores"
+ },
+ "10423315": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-05-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Science Manager, Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10423315/applied-science-manager-personalization"
+ },
+ "10435349": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr. GTM Specialist AI Infrastructure - Israel, WWSO EMEA Advanced Compute",
+  "url": "https://www.amazon.jobs/en/jobs/10435349/sr-gtm-specialist-ai-infrastructure-israel-wwso-emea-advanced-compute"
+ },
+ "10435350": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr. Specialist Solutions Architect - AI Infra, AWS WWSO EMEA",
+  "url": "https://www.amazon.jobs/en/jobs/10435350/sr-specialist-solutions-architect-ai-infra-aws-wwso-emea"
+ },
+ "10435483": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Technical Account Manager, ES-EMEA-SMB",
+  "url": "https://www.amazon.jobs/en/jobs/10435483/technical-account-manager-es-emea-smb"
+ },
+ "10436726": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-02",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Technical Account Manager, Enterprise Support - EMEA-Partner",
+  "url": "https://www.amazon.jobs/en/jobs/10436726/technical-account-manager-enterprise-support-emea-partner"
+ },
+ "10437661": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-02",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer, Elastic Block Storage, Server Durability Engine",
+  "url": "https://www.amazon.jobs/en/jobs/10437661/software-development-engineer-elastic-block-storage-server-durability-engine"
+ },
+ "10439538": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SW Engineer - Virtual Platforms",
+  "url": "https://www.amazon.jobs/en/jobs/10439538/sw-engineer-virtual-platforms"
+ },
+ "10442944": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Science Manager, Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10442944/applied-science-manager-personalization"
+ },
+ "10442965": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Personalization, Personalization Strategic Initiatives Science",
+  "url": "https://www.amazon.jobs/en/jobs/10442965/applied-scientist-personalization-personalization-strategic-initiatives-science"
+ },
+ "10442973": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Personalization, Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10442973/applied-scientist-personalization-personalization"
+ },
+ "10444995": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-10",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Tech Lead Eng, AWS , ElastiCache",
+  "url": "https://www.amazon.jobs/en/jobs/10444995/tech-lead-eng-aws-elasticache"
+ },
+ "10454437": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-21",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SW Development Engineer, AWS Elastic Network Adapter Firmware team, ENA",
+  "url": "https://www.amazon.jobs/en/jobs/10454437/sw-development-engineer-aws-elastic-network-adapter-firmware-team-ena"
+ },
+ "10454802": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Personalization, Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10454802/applied-scientist-personalization-personalization"
+ },
+ "10455113": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Pre-Silicon Verification Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10455113/pre-silicon-verification-engineer"
+ },
+ "10458621": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10458621/embedded-software-engineer"
+ },
+ "10460536": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-06-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Hardware Engineer, Graviton Platform",
+  "url": "https://www.amazon.jobs/en/jobs/10460536/system-hardware-engineer-graviton-platform"
+ },
+ "10466311": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer - Nitro , Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10466311/embedded-software-engineer-nitro-annapurna-labs"
+ },
+ "10466432": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10466432/physical-design-engineer"
+ },
+ "10467277": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Technical Leader Physical Design",
+  "url": "https://www.amazon.jobs/en/jobs/10467277/technical-leader-physical-design"
+ },
+ "10467324": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Pre-Silicon Verification Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10467324/pre-silicon-verification-engineer"
+ },
+ "10468610": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Development Engineer, AWS Agentic AI",
+  "url": "https://www.amazon.jobs/en/jobs/10468610/senior-software-development-engineer-aws-agentic-ai"
+ },
+ "10468890": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Manager, AWS EBS Data Plane - Durability Engine",
+  "url": "https://www.amazon.jobs/en/jobs/10468890/software-development-manager-aws-ebs-data-plane-durability-engine"
+ },
+ "10472250": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Personalization, Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10472250/applied-scientist-personalization-personalization"
+ },
+ "10473647": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr Tech Ops and Strategy Lead, AWS SMGS Ops Sales Ops - Global Sales",
+  "url": "https://www.amazon.jobs/en/jobs/10473647/sr-tech-ops-and-strategy-lead-aws-smgs-ops-sales-ops-global-sales"
+ },
+ "10475004": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied scientist, Agentic AI, AWS Agentic AI",
+  "url": "https://www.amazon.jobs/en/jobs/10475004/applied-scientist-agentic-ai-aws-agentic-ai"
+ },
+ "10476117": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-16",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr. Solutions Architect, Local Enterprise - Israel",
+  "url": "https://www.amazon.jobs/en/jobs/10476117/sr-solutions-architect-local-enterprise-israel"
+ },
+ "10476196": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-16",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Chip Design Engineer, Nitro Chip Design Team",
+  "url": "https://www.amazon.jobs/en/jobs/10476196/senior-chip-design-engineer-nitro-chip-design-team"
+ },
+ "10478260": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-19",
+  "reason": "המשרה הזו היא סטודנט/ית לתכנון צ'יפים בחיפה, וכדאי שתבדקי את הדרישה ל-Verilog/SystemVerilog/UVM, שאינם מופיעים בפרופיל שלך במפורש, אך הרקע שלך בתכנון חומרה ובדיקות מתאים מאוד.",
+  "score": 8,
+  "sent": true,
+  "tier": "student",
+  "title": "Chip Design Student, Chip Design Student",
+  "url": "https://www.amazon.jobs/en/jobs/10478260/chip-design-student-chip-design-student"
+ },
+ "10479983": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-07-21",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Verification Tech Lead, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/10479983/senior-verification-tech-lead-graviton-team"
+ },
+ "10481131": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Validation Software Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10481131/chip-validation-software-engineer"
+ },
+ "10484026": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-25",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "CPU Verification Engineer, Verification Team",
+  "url": "https://www.amazon.jobs/en/jobs/10484026/cpu-verification-engineer-verification-team"
+ },
+ "10484809": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-07-27",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer, Graviton Chip Design Team",
+  "url": "https://www.amazon.jobs/en/jobs/10484809/chip-design-engineer-graviton-chip-design-team"
+ },
+ "10490150": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Product IC Quality and Reliability Engineer, Annapurna Labs IC Q&R",
+  "url": "https://www.amazon.jobs/en/jobs/10490150/product-ic-quality-and-reliability-engineer-annapurna-labs-ic-q-r"
+ },
+ "10490457": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Supply Chain Planner",
+  "url": "https://www.amazon.jobs/en/jobs/10490457/supply-chain-planner"
+ },
+ "10492052": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Director, Analog IP Design , Analog IP Design",
+  "url": "https://www.amazon.jobs/en/jobs/10492052/director-analog-ip-design-analog-ip-design"
+ },
+ "10492675": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer , Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10492675/software-development-engineer-annapurna-labs"
+ },
+ "10496508": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "DFT Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10496508/dft-engineer"
+ },
+ "10496647": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-10",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Technical Leader Physical Design",
+  "url": "https://www.amazon.jobs/en/jobs/10496647/technical-leader-physical-design"
+ },
+ "10496770": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-23",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer, EFA Team",
+  "url": "https://www.amazon.jobs/en/jobs/10496770/embedded-software-engineer-efa-team"
+ },
+ "10498433": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Electrical/Mechanical Engineering Technician - Data Center, TLC DCEO",
+  "url": "https://www.amazon.jobs/en/jobs/10498433/electrical-mechanical-engineering-technician-data-center-tlc-dceo"
+ },
+ "10498476": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-11",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10498476/physical-design-engineer"
+ },
+ "10503245": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-17",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Verification Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10503245/verification-engineer"
+ },
+ "10503595": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-17",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Ethernet Validation Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10503595/ethernet-validation-engineer"
+ },
+ "10503596": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-17",
+  "reason": "התפקיד הוא סטודנטית להנדסת תוכנה לאוטומציית בדיקות בתחום שרתי Graviton, ובו תוכלי לנצל את הניסיון שלך בבדיקות מערכות חומרה ואת כישורי הפייתון שלך, אם כי נדרש ידע מוצק יותר בתכנות מונחה עצמים וב-C++ או Java.",
+  "score": 7,
+  "sent": true,
+  "tier": "student",
+  "title": "SW Automation Student, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10503596/sw-automation-student-annapurna-labs"
+ },
+ "10506530": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Integration Engineer, SERDES",
+  "url": "https://www.amazon.jobs/en/jobs/10506530/system-integration-engineer-serdes"
+ },
+ "10508231": {
+  "first_seen": "2026-11-09T14:50:15+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Director WWOS Risk&Resilience, Worldwide Security Governance",
+  "url": "https://www.amazon.jobs/en/jobs/10508231/director-wwos-risk-resilience-worldwide-security-governance"
+ },
+ "10508288": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Principal Engineer, AWS Agentic AI",
+  "url": "https://www.amazon.jobs/en/jobs/10508288/principal-engineer-aws-agentic-ai"
+ },
+ "10510175": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-21",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Strategic Customer Engagements, ISV EMEA",
+  "url": "https://www.amazon.jobs/en/jobs/10510175/strategic-customer-engagements-isv-emea"
+ },
+ "10512060": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-24",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior ML Performance Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10512060/senior-ml-performance-engineer-annapurna-labs"
+ },
+ "10513626": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-25",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Delivery Consultant – AI/ML - Application Development, Professional Services Israel",
+  "url": "https://www.amazon.jobs/en/jobs/10513626/senior-delivery-consultant-ai-ml-application-development-professional-services-israel"
+ },
+ "10513749": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-25",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10513749/chip-design-engineer-nitro-team"
+ },
+ "10516549": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-08-27",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "DFT Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10516549/dft-engineer"
+ },
+ "10521665": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-31",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Q&R Lab Engineer, Annapurna Labs IC Q&R",
+  "url": "https://www.amazon.jobs/en/jobs/10521665/q-r-lab-engineer-annapurna-labs-ic-q-r"
+ },
+ "10521736": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-08-31",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer - Nitro , Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10521736/embedded-software-engineer-nitro-annapurna-labs"
+ },
+ "10524283": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-01",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Verification Team Leader, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10524283/design-verification-team-leader-nitro-team"
+ },
+ "10525878": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-02",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer , EFA Annapurna",
+  "url": "https://www.amazon.jobs/en/jobs/10525878/embedded-software-engineer-efa-annapurna"
+ },
+ "10528187": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Tech Lead Embedded Eng, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10528187/tech-lead-embedded-eng-annapurna-labs"
+ },
+ "10528650": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Startup Investor Manager, AWS, Startup Investor Management",
+  "url": "https://www.amazon.jobs/en/jobs/10528650/senior-startup-investor-manager-aws-startup-investor-management"
+ },
+ "10530739": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10530739/physical-design-engineer"
+ },
+ "10530741": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer, Shopping Personalization AI, Amazon Stores",
+  "url": "https://www.amazon.jobs/en/jobs/10530741/software-development-engineer-shopping-personalization-ai-amazon-stores"
+ },
+ "10530884": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Tech Business developer, GenAI GTM Specialists, EMEA",
+  "url": "https://www.amazon.jobs/en/jobs/10530884/senior-tech-business-developer-genai-gtm-specialists-emea"
+ },
+ "10530892": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Security Program Manager, DC Security",
+  "url": "https://www.amazon.jobs/en/jobs/10530892/security-program-manager-dc-security"
+ },
+ "10531389": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Post Silicon Dev Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10531389/post-silicon-dev-engineer"
+ },
+ "10531432": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Quality and Reliability Engineer, Annapurna Labs IC Q&R",
+  "url": "https://www.amazon.jobs/en/jobs/10531432/senior-quality-and-reliability-engineer-annapurna-labs-ic-q-r"
+ },
+ "10531458": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Security Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10531458/software-security-engineer-annapurna-labs"
+ },
+ "10531681": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Technical Account Manager, ES - EMEA-ISV",
+  "url": "https://www.amazon.jobs/en/jobs/10531681/technical-account-manager-es-emea-isv"
+ },
+ "10533899": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer in Test , Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/10533899/software-engineer-in-test-graviton-team"
+ },
+ "10534007": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer - Linux kernel, EFA",
+  "url": "https://www.amazon.jobs/en/jobs/10534007/software-engineer-linux-kernel-efa"
+ },
+ "10535045": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Account-Based Marketing Manager, ISV Marketing, EMEA, EMEA ISV Marketing & Partner Workloads",
+  "url": "https://www.amazon.jobs/en/jobs/10535045/account-based-marketing-manager-isv-marketing-emea-emea-isv-marketing-partner-workloads"
+ },
+ "10535796": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-10",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer, SRD Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10535796/embedded-software-engineer-srd-annapurna-labs"
+ },
+ "10541406": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Electrical/Mechanical Engineering Technician - Data Center, TLV DCEO",
+  "url": "https://www.amazon.jobs/en/jobs/10541406/electrical-mechanical-engineering-technician-data-center-tlv-dceo"
+ },
+ "10541620": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Electrical/Mechanical Engineering Technician - Data Center, TLV DCEO",
+  "url": "https://www.amazon.jobs/en/jobs/10541620/electrical-mechanical-engineering-technician-data-center-tlv-dceo"
+ },
+ "10551712": {
+  "first_seen": "2026-11-09T14:50:09+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-17",
+  "reason": "התפקיד הזה מתמקד בתשתיות שרתי Linux ורשתות ולא בחומרה או באימות שבבים, ולכן הוא פחות מתאים לך, אף שהוא משרת סטודנטים.",
+  "score": 3,
+  "sent": false,
+  "tier": "student",
+  "title": "Lab Technician Student, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10551712/lab-technician-student-annapurna-labs"
+ },
+ "10555899": {
+  "first_seen": "2026-11-09T14:50:09+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Design Verification Lead, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10555899/design-verification-lead-nitro-team"
+ },
+ "10556324": {
+  "first_seen": "2026-11-09T14:50:09+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr. Technical Account Manager (Israel), EMEA Startups",
+  "url": "https://www.amazon.jobs/en/jobs/10556324/sr-technical-account-manager-israel-emea-startups"
+ },
+ "10556386": {
+  "first_seen": "2026-11-09T14:50:09+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Manufacturing Integration Lead Engineer, Nitro Team, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10556386/system-manufacturing-integration-lead-engineer-nitro-team-annapurna-labs"
+ },
+ "10558894": {
+  "first_seen": "2026-11-09T14:50:07+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-24",
+  "reason": "התפקיד הוא בעיקרו תוכנה לרשתות ותשתית ענן של AWS, ואת מתאימה בעיקר דרך ניסיון ה-C ורקע התקשורת והחומרה, כך שכדאי לבדוק אם יש מסלול קרוב יותר לתחום החומרה שלך.",
+  "score": 5,
+  "sent": false,
+  "tier": "student",
+  "title": "Software Development Student",
+  "url": "https://www.amazon.jobs/en/jobs/10558894/software-development-student"
+ },
+ "10561019": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-09-27",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Product Quality & Reliability (Q&R) Engineer, Annapurna Q&R",
+  "url": "https://www.amazon.jobs/en/jobs/10561019/system-product-quality-reliability-q-r-engineer-annapurna-q-r"
+ },
+ "10561354": {
+  "first_seen": "2026-11-09T14:50:07+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Data Center Chief Engineer, TLV DCEO",
+  "url": "https://www.amazon.jobs/en/jobs/10561354/data-center-chief-engineer-tlv-dceo"
+ },
+ "10561447": {
+  "first_seen": "2026-11-09T14:50:09+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-09-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Tech Lead Eng, AWS Transform, Agentic AI",
+  "url": "https://www.amazon.jobs/en/jobs/10561447/tech-lead-eng-aws-transform-agentic-ai"
+ },
+ "10561452": {
+  "first_seen": "2026-11-09T14:50:07+00:00",
+  "locations": [
+   "Modiin-maccabim-reut"
+  ],
+  "open": true,
+  "posted": "2026-09-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Capacity Installation Technician, Data Center, Infrastructure Delivery",
+  "url": "https://www.amazon.jobs/en/jobs/10561452/capacity-installation-technician-data-center-infrastructure-delivery"
+ },
+ "10567690": {
+  "first_seen": "2026-11-09T14:50:05+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-02",
+  "reason": "המשרה הזו דורשת דוקטורט בתחום מדעי המחשב או למידת מכונה ופרסומים בכנסים מובילים, ולכן אינה מתאימה לך כסטודנטית לתואר ראשון בהנדסת חשמל ואלקטרוניקה שמחפשת תפקיד חומרה.",
+  "score": 1,
+  "sent": false,
+  "tier": "student",
+  "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+  "url": "https://www.amazon.jobs/en/jobs/10567690/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+ },
+ "10568490": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer - Shopping Personalization AI, Amazon Stores",
+  "url": "https://www.amazon.jobs/en/jobs/10568490/software-development-engineer-shopping-personalization-ai-amazon-stores"
+ },
+ "10568496": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Science Manager, Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10568496/applied-science-manager-personalization"
+ },
+ "10568498": {
+  "first_seen": "2026-11-09T14:50:07+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Development Engineer, Machine Learning Israel (MLIL) — Integration Validation",
+  "url": "https://www.amazon.jobs/en/jobs/10568498/senior-software-development-engineer-machine-learning-israel-mlil-integration-validation"
+ },
+ "10568625": {
+  "first_seen": "2026-11-09T14:50:05+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Cloud Software Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10568625/cloud-software-engineer-annapurna-labs"
+ },
+ "10568678": {
+  "first_seen": "2026-11-09T14:50:11+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer- Annapurna Labs (Tel Aviv / Haifa, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10568678/software-engineer-annapurna-labs-tel-aviv-haifa-annapurna-labs"
+ },
+ "10568912": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Hardware Engineer, Graviton server development team",
+  "url": "https://www.amazon.jobs/en/jobs/10568912/system-hardware-engineer-graviton-server-development-team"
+ },
+ "10570154": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer, Nitro Chip Design Team",
+  "url": "https://www.amazon.jobs/en/jobs/10570154/chip-design-engineer-nitro-chip-design-team"
+ },
+ "10570339": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer, Graviton",
+  "url": "https://www.amazon.jobs/en/jobs/10570339/embedded-software-engineer-graviton"
+ },
+ "10570609": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Chip Design Engineer , Graviton",
+  "url": "https://www.amazon.jobs/en/jobs/10570609/senior-chip-design-engineer-graviton"
+ },
+ "10571057": {
+  "first_seen": "2026-11-09T14:50:13+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-06",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Developer Engineer, AWS Transform",
+  "url": "https://www.amazon.jobs/en/jobs/10571057/software-developer-engineer-aws-transform"
+ },
+ "10571818": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer, Annapurna",
+  "url": "https://www.amazon.jobs/en/jobs/10571818/embedded-software-engineer-annapurna"
+ },
+ "10575582": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-12",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer, System Verification, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/10575582/software-engineer-system-verification-graviton-team"
+ },
+ "10575685": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-12",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Engineer, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/10575685/system-engineer-graviton-team"
+ },
+ "10576469": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-12",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Security Manager, Amazon Corporate Security",
+  "url": "https://www.amazon.jobs/en/jobs/10576469/security-manager-amazon-corporate-security"
+ },
+ "10576948": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Verification Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10576948/verification-engineer-nitro-team"
+ },
+ "10576950": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Verification Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10576950/verification-engineer-nitro-team"
+ },
+ "10576953": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Engineer- ML Network Stack, ML Network Stack - Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10576953/senior-software-engineer-ml-network-stack-ml-network-stack-annapurna-labs"
+ },
+ "10577503": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-13",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Prime Video Sports Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10577503/applied-scientist-prime-video-sports-personalization"
+ },
+ "10578355": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "HW Lead Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10578355/hw-lead-engineer-nitro-team"
+ },
+ "10578487": {
+  "first_seen": "2026-11-09T14:50:07+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-14",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Startup Representative, Temporary Role, Marketing Response Center",
+  "url": "https://www.amazon.jobs/en/jobs/10578487/startup-representative-temporary-role-marketing-response-center"
+ },
+ "10579685": {
+  "first_seen": "2026-11-09T14:50:01+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "PCIe Validation Engineer, SPIV team",
+  "url": "https://www.amazon.jobs/en/jobs/10579685/pcie-validation-engineer-spiv-team"
+ },
+ "10579756": {
+  "first_seen": "2026-11-09T14:49:59+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-15",
+  "reason": "התפקיד דורש ניסיון מקצועי ברמת Junior-Senior עם שליטה ב-SystemVerilog, פרוטוקולים כמו AXI ו-PCIe והובלת FV מקצה לקצה, ולכן לא מתאים לך כסטודנטית לתפקיד סטודנטים או התמחות, אך יש בו חיבור קלוש לתחום האימות שלך.",
+  "score": 3,
+  "sent": false,
+  "tier": "junior",
+  "title": "Junior Formal Verification Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10579756/junior-formal-verification-engineer-annapurna-labs"
+ },
+ "10581252": {
+  "first_seen": "2026-11-09T14:50:01+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-16",
+  "reason": "המשרה הזו היא בתחום ארכיטקטורת ענן ולא חומרה או ולידציה, והיא דורשת הרשמה לתואר במדעי המחשב או הנדסה טכנית בכללה בספרד, ולכן לא נראה שזו התאמה טובה עבורך.",
+  "score": 2,
+  "sent": false,
+  "tier": "student",
+  "title": "Associate Solutions Architect Internship 2027",
+  "url": "https://www.amazon.jobs/en/jobs/10581252/associate-solutions-architect-internship-2027"
+ },
+ "10582178": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-18",
+  "reason": "המשרה דורשת סטודנט למדעי המחשב או הנדסת תוכנה עם דגש על אוטומציה בענן, ולכן היא פחות מתאימה לך כמהנדסת חומרה ואימות, אם כי קיים חפיפה בפייתון.",
+  "score": 4,
+  "sent": false,
+  "tier": "student",
+  "title": "Software Automation Student , Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10582178/software-automation-student-annapurna-labs"
+ },
+ "10582182": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-18",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Manager , Analog IP Design , Analog IP Design",
+  "url": "https://www.amazon.jobs/en/jobs/10582182/senior-manager-analog-ip-design-analog-ip-design"
+ },
+ "10582272": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Prime Video Sports Personalization, Prime Video Sports Personalization",
+  "url": "https://www.amazon.jobs/en/jobs/10582272/applied-scientist-prime-video-sports-personalization-prime-video-sports-personalization"
+ },
+ "10582334": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "PCIe System Integration Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10582334/pcie-system-integration-engineer"
+ },
+ "10582342": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": "התפקיד הזה מתאים לך חלקית: הוא מיועד למהנדסת ג'וניור עם שנה ומעלה של ניסיון בפיתוח תוכנה ב-C/C++, ולכן ייתכן שתתקשי לעמוד בדרישה הזו בשלב הנוכחי, אך הרקע שלך בחומרה וב-C/C++ רלוונטי.",
+  "score": 5,
+  "sent": false,
+  "tier": "junior",
+  "title": "Junior SW Engineer - Virtual Platforms",
+  "url": "https://www.amazon.jobs/en/jobs/10582342/junior-sw-engineer-virtual-platforms"
+ },
+ "10582401": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Electronics/Mechanical Practical Engineer - Technical Lab Leader",
+  "url": "https://www.amazon.jobs/en/jobs/10582401/electronics-mechanical-practical-engineer-technical-lab-leader"
+ },
+ "10583032": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior HW Material Engineer, Nitro Team, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10583032/senior-hw-material-engineer-nitro-team-annapurna-labs"
+ },
+ "10583054": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Formal Verification Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10583054/senior-formal-verification-engineer-annapurna-labs"
+ },
+ "10583059": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Formal Verification Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10583059/formal-verification-engineer-annapurna-labs"
+ },
+ "10584028": {
+  "first_seen": "2026-11-09T14:49:57+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-20",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Data Center Chief Engineer, Data Center Engineering Operation",
+  "url": "https://www.amazon.jobs/en/jobs/10584028/data-center-chief-engineer-data-center-engineering-operation"
+ },
+ "10584934": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-23",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10584934/chip-design-engineer-nitro-team"
+ },
+ "10584950": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-21",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Development Engineer, Shopping Personalization AI",
+  "url": "https://www.amazon.jobs/en/jobs/10584950/senior-software-development-engineer-shopping-personalization-ai"
+ },
+ "10584981": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/10584981/chip-design-engineer-graviton-team"
+ },
+ "10584990": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-21",
+  "reason": "המשרה הזו היא התמחות במדעי הנתונים וה-AI למשתמשי תארים שניים, ולכן היא לא מתאימה לך כסטודנטית לתואר ראשון בהנדסת חשמל עם רקע בחומרה ואימות.",
+  "score": 2,
+  "sent": false,
+  "tier": "student",
+  "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
+  "url": "https://www.amazon.jobs/en/jobs/10584990/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition"
+ },
+ "10585527": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-02",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer Chip Validation , Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10585527/software-engineer-chip-validation-annapurna-labs"
+ },
+ "10586073": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Integration Lead, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10586073/system-integration-lead-nitro-team"
+ },
+ "10586201": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Principal Software Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10586201/principal-software-engineer"
+ },
+ "10588281": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-25",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10588281/physical-design-engineer"
+ },
+ "10588384": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior SerDes Characterization Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10588384/senior-serdes-characterization-engineer"
+ },
+ "10589008": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Data Center Site HR Partner, AWS HRP, BeXT AIS",
+  "url": "https://www.amazon.jobs/en/jobs/10589008/data-center-site-hr-partner-aws-hrp-bext-ais"
+ },
+ "10589065": {
+  "first_seen": "2026-11-09T14:49:51+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Hardware Technical Program Manager, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10589065/hardware-technical-program-manager-nitro-team"
+ },
+ "10589066": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Hardware Lead Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10589066/system-hardware-lead-engineer-nitro-team"
+ },
+ "10589075": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-26",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Machine Learning Performance Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10589075/machine-learning-performance-engineer-annapurna-labs"
+ },
+ "10590011": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-27",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "AWS Marketplace Specialists Customer",
+  "url": "https://www.amazon.jobs/en/jobs/10590011/aws-marketplace-specialists-customer"
+ },
+ "10590972": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer, System SW group",
+  "url": "https://www.amazon.jobs/en/jobs/10590972/software-development-engineer-system-sw-group"
+ },
+ "10590973": {
+  "first_seen": "2026-11-09T14:49:54+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-28",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Manufacturing Engineer, Graviton server development team",
+  "url": "https://www.amazon.jobs/en/jobs/10590973/system-manufacturing-engineer-graviton-server-development-team"
+ },
+ "10592104": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": "המשרה הזו היא תוכנה ב-Amazon ואינה קשורה לתחום החומרה והוולידציה שאת מחפשת, ולכן ההתאמה נמוכה מאוד.",
+  "score": 2,
+  "sent": false,
+  "tier": "student",
+  "title": "2027 Software Dev Engineer Intern - Tel-Aviv, Israel",
+  "url": "https://www.amazon.jobs/en/jobs/10592104/2027-software-dev-engineer-intern-tel-aviv-israel"
+ },
+ "10592105": {
+  "first_seen": "2026-11-09T14:49:51+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-10-29",
+  "reason": "המשרה הזו היא תוכנה טהורה עם דרישות מערכות מבוזרות ו-Cloud, ולכן היא לא מתאימה לתחום החומרה והאימות שאת מחפשת.",
+  "score": 2,
+  "sent": false,
+  "tier": "student",
+  "title": "2027 Software Dev Engineer Intern - Haifa, Israel",
+  "url": "https://www.amazon.jobs/en/jobs/10592105/2027-software-dev-engineer-intern-haifa-israel"
+ },
+ "10593515": {
+  "first_seen": "2026-11-09T14:49:56+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-10-30",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Startups Frontier AI Account Manager, Frontier AI SUP EMEA",
+  "url": "https://www.amazon.jobs/en/jobs/10593515/startups-frontier-ai-account-manager-frontier-ai-sup-emea"
+ },
+ "10594018": {
+  "first_seen": "2026-11-09T14:49:49+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-01",
+  "reason": "את מתאימה לתפקיד סטודנטית לאימות שבבים בצוות Annapurna, במיוחד בזכות הרקע שלך בפייתון, C/C++ ואימות חומרה, אך הדרישה לשנה לפחות של ניסיון בפיתוח תוכנה מלא מצמצמת את הסיכוי.",
+  "score": 7,
+  "sent": true,
+  "tier": "student",
+  "title": "Chip Validation Software Student",
+  "url": "https://www.amazon.jobs/en/jobs/10594018/chip-validation-software-student"
+ },
+ "10594276": {
+  "first_seen": "2026-11-09T14:49:47+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-02",
+  "reason": "התפקיד הזה בצוות אימות פרה-סיליקון בחיפה תואם את תחומי העניין שלך, אבל הוא דורש ידע ב-UVM, SystemVerilog ופרוטוקולים כמו PCIe ו-DDR, שעדיין לא לימדת את עצמך, ולכן כדאי לבדוק אם הוא מיועד לסטודנטית או לבוגרת.",
+  "score": 6,
+  "sent": false,
+  "tier": "junior",
+  "title": "Junior Verification Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10594276/junior-verification-engineer"
+ },
+ "10594443": {
+  "first_seen": "2026-11-09T14:49:47+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr. Technical Program Manager- Software , Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10594443/sr-technical-program-manager-software-annapurna-labs"
+ },
+ "10595241": {
+  "first_seen": "2026-11-09T14:49:49+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Applied Scientist, Prime Video Sports",
+  "url": "https://www.amazon.jobs/en/jobs/10595241/applied-scientist-prime-video-sports"
+ },
+ "10595282": {
+  "first_seen": "2026-11-09T14:49:47+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Verification Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10595282/verification-engineer-nitro-team"
+ },
+ "10595319": {
+  "first_seen": "2026-11-09T14:49:49+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer - 2027",
+  "url": "https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027"
+ },
+ "10595320": {
+  "first_seen": "2026-11-09T14:49:49+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer - 2027",
+  "url": "https://www.amazon.jobs/en/jobs/10595320/software-development-engineer-2027"
+ },
+ "10595321": {
+  "first_seen": "2026-11-09T14:50:04+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-03",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Data Scientist, Prime Video Sports",
+  "url": "https://www.amazon.jobs/en/jobs/10595321/data-scientist-prime-video-sports"
+ },
+ "10595978": {
+  "first_seen": "2026-11-09T14:49:49+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Full Lifecycle Recruiter, MQS",
+  "url": "https://www.amazon.jobs/en/jobs/10595978/full-lifecycle-recruiter-mqs"
+ },
+ "10595979": {
+  "first_seen": "2026-11-09T14:49:47+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Technical Recruiter, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10595979/senior-technical-recruiter-annapurna-labs"
+ },
+ "10597413": {
+  "first_seen": "2026-11-09T14:49:45+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-05",
+  "reason": "התפקיד מתאים לך בזכות הרקע שלך בחומרה, במדידות מעבדה ובאוסילוסקופ, אך הוא דורש ניסיון של 1-3 שנים ומיועד למהנדסים מוגמרים יותר, ולכן כדאי לבדוק אם יש מסלול סטודנטים.",
+  "score": 6,
+  "sent": false,
+  "tier": "junior",
+  "title": "Junior SI/PI and Packaging Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/10597413/junior-si-pi-and-packaging-engineer"
+ },
+ "10597542": {
+  "first_seen": "2026-11-09T14:49:45+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Data Center Technician",
+  "url": "https://www.amazon.jobs/en/jobs/10597542/data-center-technician"
+ },
+ "10599438": {
+  "first_seen": "2026-11-09T14:49:45+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Cloud Software Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/10599438/cloud-software-engineer-annapurna-labs"
+ },
+ "10599442": {
+  "first_seen": "2026-11-09T14:49:45+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Integration Engineer, Nitro Team",
+  "url": "https://www.amazon.jobs/en/jobs/10599442/system-integration-engineer-nitro-team"
+ },
+ "10599690": {
+  "first_seen": "2026-11-09T14:49:45+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Account Manager - Enterprise, Enterprise [Local]",
+  "url": "https://www.amazon.jobs/en/jobs/10599690/account-manager-enterprise-enterprise-local"
+ },
+ "3138774": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2025-12-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Network Software Engineer , SRD Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/3138774/senior-network-software-engineer-srd-annapurna-labs"
+ },
+ "3154247": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-01-07",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Verification Team Lead, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/3154247/verification-team-lead-graviton-team"
+ },
+ "3155020": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-01-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer, Annapurna Labs",
+  "url": "https://www.amazon.jobs/en/jobs/3155020/embedded-software-engineer-annapurna-labs"
+ },
+ "3155214": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-01-08",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SoC Power Analysis and Optimization Engineer, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/3155214/soc-power-analysis-and-optimization-engineer-graviton-team"
+ },
+ "3156914": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-01-12",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Engineer, Graviton Team",
+  "url": "https://www.amazon.jobs/en/jobs/3156914/chip-design-engineer-graviton-team"
+ },
+ "3164558": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-01-22",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Product Engineer",
+  "url": "https://www.amazon.jobs/en/jobs/3164558/senior-product-engineer"
+ },
+ "3167825": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-01-27",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer, AWS Agentic AI",
+  "url": "https://www.amazon.jobs/en/jobs/3167825/software-development-engineer-aws-agentic-ai"
+ },
+ "3195865": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-03-04",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Principal Software Engineer, Elasticache",
+  "url": "https://www.amazon.jobs/en/jobs/3195865/principal-software-engineer-elasticache"
+ },
+ "3200095": {
+  "first_seen": "2026-11-09T14:50:17+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-03-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Sr GTM SSA Analytics, EMEA GTM Data and AI Specialists Solutions Architecture",
+  "url": "https://www.amazon.jobs/en/jobs/3200095/sr-gtm-ssa-analytics-emea-gtm-data-and-ai-specialists-solutions-architecture"
+ }
+}
