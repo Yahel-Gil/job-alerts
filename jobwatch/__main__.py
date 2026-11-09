@@ -2,6 +2,7 @@
 python -m jobwatch --company intel     scan one company, alert on new matching jobs, update state
 python -m jobwatch                     same, for every company in config.yaml
 python -m jobwatch --dry-run           print every currently open matching job; send nothing, save nothing
+python -m jobwatch --rescore           also re-score open jobs that were not sent (after the CV changed)
 python -m jobwatch --digest            daily summary of open matching jobs
 python -m jobwatch --test-message      check the Telegram setup
 
@@ -65,7 +66,7 @@ def _health(name: str, error: str | None, cfg: dict, dry_run: bool) -> None:
         state.save("health", name, h)
 
 
-def scan(name: str, cfg: dict, dry_run: bool) -> None:
+def scan(name: str, cfg: dict, dry_run: bool, rescore: bool = False) -> None:
     src = SOURCES[name]
     s = session()
     print(f"== {src.DISPLAY}")
@@ -88,9 +89,13 @@ def scan(name: str, cfg: dict, dry_run: bool) -> None:
 
     new = [j for j in jobs if j.id not in seen]
     print(f"  {len(jobs)} open in Israel, {len(new)} new")
+    # After a profile change, give open jobs that were not sent another chance.
+    again = [j for j in jobs if rescore and j.id in seen and not seen[j.id]["sent"]]
     matches = []
-    for job in new:
+    for job in new + again:
         rec = _evaluate(src, s, job, cfg)
+        if job.id in seen:
+            rec["first_seen"] = seen[job.id]["first_seen"]
         seen[job.id] = rec
         if rec["sent"]:
             matches.append((job.id, rec))
@@ -143,6 +148,7 @@ def main() -> int:
     ap.add_argument("--company", choices=sorted(SOURCES))
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--digest", action="store_true")
+    ap.add_argument("--rescore", action="store_true")
     ap.add_argument("--test-message", action="store_true")
     args = ap.parse_args()
     cfg = config.load()
@@ -153,7 +159,7 @@ def main() -> int:
         digest(cfg, args.dry_run)
     else:
         for name in [args.company] if args.company else cfg["companies"]:
-            scan(name, cfg, args.dry_run)
+            scan(name, cfg, args.dry_run, args.rescore)
     return 0
 
 

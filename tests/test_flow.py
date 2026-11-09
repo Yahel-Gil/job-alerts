@@ -110,3 +110,20 @@ def test_ai_score_filters_irrelevant_student(env, monkeypatch):
     site.jobs.append(J("1", "Data Science Intern"))
     app.scan("fake", CFG, dry_run=False)
     assert sent == []
+
+
+def test_rescore_sends_unsent_open_jobs_once(env, monkeypatch):
+    site, sent = env
+    site.jobs = [J("1", "Software Automation Student")]   # student without a domain keyword
+    monkeypatch.setattr(ai_score, "score", lambda *a, **k: types.SimpleNamespace(score=4, reason_he="r"))
+    app.scan("fake", CFG, dry_run=False)                  # first run: 4 < 6, not sent
+    first_seen = state.load("seen", "fake")["1"]["first_seen"]
+    app.scan("fake", CFG, dry_run=False)                  # normal run: known job is not re-scored
+    assert len(sent) == 1
+    monkeypatch.setattr(ai_score, "score", lambda *a, **k: types.SimpleNamespace(score=8, reason_he="new CV"))
+    app.scan("fake", CFG, dry_run=False, rescore=True)
+    assert len(sent) == 2 and "new CV" in sent[1][0]
+    rec = state.load("seen", "fake")["1"]
+    assert rec["sent"] and rec["first_seen"] == first_seen
+    app.scan("fake", CFG, dry_run=False, rescore=True)    # already sent: not sent again
+    assert len(sent) == 2

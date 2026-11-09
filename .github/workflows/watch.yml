@@ -4,6 +4,11 @@ name: watch
 # scheduler drops frequent runs (we saw 4 runs in 16 hours). The hourly schedule is only a backup.
 on:
   workflow_dispatch:
+    inputs:
+      rescore:
+        description: Re-score open jobs that were not sent (after updating PROFILE_TEXT)
+        type: boolean
+        default: false
   schedule:
     - cron: "23 * * * *"
 
@@ -36,7 +41,7 @@ jobs:
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PROFILE_TEXT: ${{ secrets.PROFILE_TEXT }}
-        run: python -m jobwatch --company ${{ matrix.company }}
+        run: python -m jobwatch --company ${{ matrix.company }} ${{ inputs.rescore && '--rescore' || '' }}
       # Dead-man's switch: healthchecks.io alerts on Telegram when these pings stop arriving.
       - name: Ping healthchecks.io
         env:

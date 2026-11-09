@@ -69,6 +69,11 @@ domain_keywords:
   - test engineer
   - bring-up
   - bringup
+  - verilog
+  - wireless
+  - radio
+  - modem
+  - satcom
 
 # Thresholds for the AI fit score (1-10)
 ai:
