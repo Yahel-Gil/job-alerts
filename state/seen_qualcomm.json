@@ -300,7 +300,7 @@
   "locations": [
    "Hod Hasharon"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-19",
   "reason": null,
   "score": null,
@@ -448,6 +448,20 @@
   "tier": null,
   "title": "ASIC Architect - Hod Hasharon",
   "url": "https://careers.qualcomm.com/careers/job/446721741530"
+ },
+ "446721825812": {
+  "first_seen": "2026-11-09T21:30:34+00:00",
+  "locations": [
+   "Hod Hasharon"
+  ],
+  "open": true,
+  "posted": "2026-11-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Engineer, Senior - Qualcomm, Hod Hasharon, Israel",
+  "url": "https://careers.qualcomm.com/careers/job/446721825812"
  },
  "446721843615": {
   "first_seen": "2026-11-09T14:49:44+00:00",
