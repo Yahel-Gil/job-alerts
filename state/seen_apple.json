@@ -1573,5 +1573,19 @@
   "tier": null,
   "title": "Engineering Program Manager – Novel Sensing",
   "url": "https://jobs.apple.com/en-il/details/200694045/engineering-program-manager-novel-sensing"
+ },
+ "200694073": {
+  "first_seen": "2026-11-09T16:00:40+00:00",
+  "locations": [
+   "Israel"
+  ],
+  "open": true,
+  "posted": "2026-11-09",
+  "reason": "התפקיד הוא בתחום אימות דיגיטלי של שבבים, שמתאים לכיוון שלך, אך הוא מתמקד בתקשורת אלחוטית (WiFi/Bluetooth/MAC/PHY) ודורש ניסיון מעשי ב-UVM ו-SystemVerilog שאינו מופיע בפרופיל שלך, ולכן זו התאמה חלקית בלבד.",
+  "score": 5,
+  "sent": false,
+  "tier": "junior",
+  "title": "Junior Wireless SoC Design Verification Engineer",
+  "url": "https://jobs.apple.com/en-il/details/200694073/junior-wireless-soc-design-verification-engineer"
  }
 }
