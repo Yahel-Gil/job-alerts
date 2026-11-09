@@ -398,7 +398,7 @@
   "locations": [
    "Hod Hasharon"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-19",
   "reason": null,
   "score": null,
@@ -476,5 +476,19 @@
   "tier": null,
   "title": "Staff Firmware Engineer - SDR/5G/6G Modem - Hod HaSharon",
   "url": "https://careers.qualcomm.com/careers/job/446721843621"
+ },
+ "446721861371": {
+  "first_seen": "2026-11-09T15:30:32+00:00",
+  "locations": [
+   "Hod Hasharon"
+  ],
+  "open": true,
+  "posted": "2026-11-09",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Integration Engineer, Senior - Hod HaSharon",
+  "url": "https://careers.qualcomm.com/careers/job/446721861371"
  }
 }
