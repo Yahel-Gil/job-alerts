@@ -31,8 +31,8 @@ def test_tier(title, hint, expected):
 
 
 def test_domain_hits_use_word_edges():
-    assert "rf" in filters.domain_hits(job("RF Validation Student"), CFG)
-    assert "rf" not in filters.domain_hits(job("Performance Student"), CFG)
+    assert "lab" in filters.domain_hits(job("Lab Student"), CFG)
+    assert "lab" not in filters.domain_hits(job("Collaboration Student"), CFG)
     assert filters.domain_hits(job("Engineering Student", team="Hardware"), CFG) == ["hardware"]
     assert filters.domain_hits(job("Data Science Intern"), CFG) == []
 

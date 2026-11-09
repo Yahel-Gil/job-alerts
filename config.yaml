@@ -60,7 +60,6 @@ domain_keywords:
   - embedded
   - firmware
   - analog
-  - rf
   - mixed-signal
   - mixed signal
   - lab
@@ -70,10 +69,6 @@ domain_keywords:
   - bring-up
   - bringup
   - verilog
-  - wireless
-  - radio
-  - modem
-  - satcom
 
 # Thresholds for the AI fit score (1-10)
 ai:
