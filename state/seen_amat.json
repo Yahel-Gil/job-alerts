@@ -522,7 +522,7 @@
   "locations": [
    "Rehovot"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 11 Days Ago",
   "reason": null,
   "score": null,
@@ -614,6 +614,20 @@
   "tier": null,
   "title": "Physicist  (Advanced Optical Systems)",
   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Physicist---Advanced-Optical-Systems-_R2625525"
+ },
+ "/job/RehovotISR/Physicist---Advanced-Optical-Systems-_R2631898": {
+  "first_seen": "2026-11-10T11:00:48+00:00",
+  "locations": [
+   "Rehovot"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physicist  (Advanced Optical Systems)",
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Physicist---Advanced-Optical-Systems-_R2631898"
  },
  "/job/RehovotISR/Physicist_R2519839": {
   "first_seen": "2026-11-01T17:16:17+00:00",
