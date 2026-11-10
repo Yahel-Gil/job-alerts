@@ -452,7 +452,7 @@
   "locations": [
    "Rehovot"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 21 Days Ago",
   "reason": null,
   "score": null,
@@ -1034,6 +1034,20 @@
   "tier": "junior",
   "title": "System Integration Engineer",
   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2612347"
+ },
+ "/job/RehovotISR/System-Integration-Engineer_R2625538": {
+  "first_seen": "2026-11-10T09:15:29+00:00",
+  "locations": [
+   "Rehovot"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": "התפקיד הוא אינטגרציה ופתרון תקלות של מערכות מורכבות בסביבת ייצור שבבים, והוא מתאים לך בזכות הרקע החומרתי והניסיון שלך בבדיקות ובאיתור תקלות, אבל הוא דורש דיפלומת הנדסאי ונשען בעיקר על ניסיון מערכתי ולא על תכנון חומרה.",
+  "score": 6,
+  "sent": false,
+  "tier": "junior",
+  "title": "System Integration Engineer",
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2625538"
  },
  "/job/RehovotISR/Talent-Acquisition-Partner--1-Year-Temp_R2631900": {
   "first_seen": "2026-11-01T17:16:14+00:00",
