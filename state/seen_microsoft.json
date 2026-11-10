@@ -38,7 +38,7 @@
    "Haifa, Haifa",
    "Northern, Nazareth"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-08-10",
   "reason": null,
   "score": null,
@@ -511,5 +511,23 @@
   "tier": null,
   "title": "Solution Area Specialists",
   "url": "https://apply.careers.microsoft.com/careers/job/1970393557069595"
+ },
+ "1970393557070356": {
+  "first_seen": "2026-11-10T16:30:34+00:00",
+  "locations": [
+   "Tel Aviv, Herzliya",
+   "Tel Aviv, Tel Aviv",
+   "Southern, Beer-Sheva",
+   "Haifa, Haifa",
+   "Northern, Nazareth"
+  ],
+  "open": true,
+  "posted": "2026-11-10",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior/Principal Software Engineer - Cryptography & Post-Quantum Security (Multiple Roles)",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557070356"
  }
 }
