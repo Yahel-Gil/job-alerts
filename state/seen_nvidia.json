@@ -858,7 +858,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": "המשרה הזו מתאימה לך היטב, שכן היא דורשת ניסיון מוקדם בתכנון ASIC, ותחום העיצוב הדיגיטלי שאת למדת ועבדת בו מהווה בסיס טוב להשתלבות בצוות כזה, אם כי התפקיד מתמקד בתשתיות מתודולוגיה ובאוטומציה ולא בתכנון חומרה ישיר.",
   "score": 7,
@@ -1908,7 +1908,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -2846,7 +2846,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted Today",
   "reason": "התפקיד דורש ניסיון בפיתוח תוכנה מוטמעת ואוטומציה בפייתון בסביבות מערכתיות, והוא לא מיועד לסטודנטית בשנה ג', אך יש לך בסיס טוב בחומרה ובתכנות שכדאי לך לבחון.",
   "score": 4,
