@@ -2804,7 +2804,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -2846,7 +2846,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": "התפקיד דורש ניסיון בפיתוח תוכנה מוטמעת ואוטומציה בפייתון בסביבות מערכתיות, והוא לא מיועד לסטודנטית בשנה ג', אך יש לך בסיס טוב בחומרה ובתכנות שכדאי לך לבחון.",
   "score": 4,
