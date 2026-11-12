@@ -186,7 +186,7 @@
   "locations": [
    "Israel, Raanana"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 20 Days Ago",
   "reason": null,
   "score": null,
@@ -1012,7 +1012,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -1502,7 +1502,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -1670,7 +1670,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -2034,7 +2034,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 28 Days Ago",
   "reason": null,
   "score": null,
@@ -2370,7 +2370,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 3 Days Ago",
   "reason": null,
   "score": null,
