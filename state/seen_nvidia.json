@@ -2062,7 +2062,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -3476,7 +3476,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
