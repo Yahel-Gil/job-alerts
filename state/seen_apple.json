@@ -1645,5 +1645,19 @@
   "tier": null,
   "title": "FE STA Engineer",
   "url": "https://jobs.apple.com/en-il/details/200694494/fe-sta-engineer"
+ },
+ "200694502": {
+  "first_seen": "2026-11-12T13:30:28+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-12",
+  "reason": "התפקיד הזה מתמקד בתהליכי הרכבה ואנליזת כשלים של מודולי מצלמה ולא בפיתוח חומרה או אימות שבבים, ולכן הוא פחות מתאים לך, אם כי יש לך כלים רלוונטיים כמו ניתוח שורש הבעיה ועבודה על ציוד מעבדה.",
+  "score": 3,
+  "sent": false,
+  "tier": "student",
+  "title": "MS.c/Ph.D Process Engineering Intern, Camera Modules",
+  "url": "https://jobs.apple.com/en-il/details/200694502/ms-c-ph-d-process-engineering-intern-camera-modules"
  }
 }
