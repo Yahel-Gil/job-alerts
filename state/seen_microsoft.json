@@ -52,7 +52,7 @@
   "locations": [
    "Tel Aviv, Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-08-26",
   "reason": null,
   "score": null,
@@ -123,7 +123,7 @@
   "locations": [
    "Tel Aviv, Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-08",
   "reason": null,
   "score": null,
