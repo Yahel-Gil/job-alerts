@@ -1712,7 +1712,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -5248,6 +5248,20 @@
   "tier": null,
   "title": "Senior PCB Design Layout Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2008755"
+ },
+ "/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2028981": {
+  "first_seen": "2026-11-14T17:31:21+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior PCB Design Layout Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2028981"
  },
  "/job/Israel-Yokneam/Senior-PCB-Layout-Engineer_JR2022809": {
   "first_seen": "2026-11-01T17:16:34+00:00",
