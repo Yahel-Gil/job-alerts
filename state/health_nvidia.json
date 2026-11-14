@@ -1,5 +1,5 @@
 {
  "alerted": true,
- "failures": 60,
+ "failures": 61,
  "last_error": "SourceError: POST https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs failed after 3 tries: Expecting value: line 1 column 1 (char 0)"
 }
