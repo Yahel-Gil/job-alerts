@@ -1,5 +1,5 @@
 {
  "alerted": true,
- "failures": 18,
+ "failures": 19,
  "last_error": "SourceError: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs failed after 3 tries: 521 Server Error: <none> for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
 }
