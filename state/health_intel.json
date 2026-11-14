@@ -1,5 +1,5 @@
 {
  "alerted": true,
- "failures": 64,
+ "failures": 65,
  "last_error": "SourceError: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs failed after 3 tries: Expecting value: line 1 column 1 (char 0)"
 }
