@@ -1690,5 +1690,19 @@
   "tier": null,
   "title": "Silicon Validation Software Engineer: CPU and Memory Hierarchy",
   "url": "https://jobs.apple.com/en-il/details/200694733/silicon-validation-software-engineer-cpu-and-memory-hierarchy"
+ },
+ "200695122": {
+  "first_seen": "2026-11-15T16:00:45+00:00",
+  "locations": [
+   "Herzliya"
+  ],
+  "open": true,
+  "posted": "2026-11-15",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "System Architecture & Product Lead - Q",
+  "url": "https://jobs.apple.com/en-il/details/200695122/system-architecture-product-lead-q"
  }
 }
