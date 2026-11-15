@@ -3826,7 +3826,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 7 Days Ago",
   "reason": null,
   "score": null,
@@ -5612,6 +5612,20 @@
   "tier": null,
   "title": "Senior Project Manager, PE",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Project-Manager--PE_JR2012608"
+ },
+ "/job/Israel-Yokneam/Senior-QA-Engineer--System-Product-Engineering_JR2008526": {
+  "first_seen": "2026-11-15T14:01:05+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior QA Engineer, System Product Engineering",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-QA-Engineer--System-Product-Engineering_JR2008526"
  },
  "/job/Israel-Yokneam/Senior-QA-Engineer--Test-Frameworks---Tools_JR2022662": {
   "first_seen": "2026-11-01T17:16:34+00:00",
