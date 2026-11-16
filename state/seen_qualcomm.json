@@ -1,4 +1,18 @@
 {
+ "446717394546": {
+  "first_seen": "2026-11-16T18:30:50+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-16",
+  "reason": "התפקיד הזה מתמקד באלגוריתמים לעיבוד וידאו ותמונה ולא בחומרה או באימות צ'יפים, ולכן הוא פחות מתאים לך, אם כי הוא סטודנטיאלי.",
+  "score": 3,
+  "sent": false,
+  "tier": "student",
+  "title": "FY27 Intern - Camera Algorithm and Architecture Intern - Haifa",
+  "url": "https://careers.qualcomm.com/careers/job/446717394546"
+ },
  "446717639048": {
   "first_seen": "2026-11-10T15:00:39+00:00",
   "locations": [
@@ -159,7 +173,7 @@
   "locations": [
    "Hod Hasharon"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-07",
   "reason": null,
   "score": null,
