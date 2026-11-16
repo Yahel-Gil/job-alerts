@@ -1026,7 +1026,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted Yesterday",
   "reason": "התפקיד הזה ברמת קושחה לכרטיסי רשת דורש C/C++ ומאפשר 0-3 שנות ניסיון, ולכן את יכולה להתאים לו, במיוחד עם הרקע שלך ב-Verilog ובאימות, אבל הוא פחות מרכזי בתחום החומרה שאת מחפשת.",
   "score": 6,
@@ -6144,6 +6144,20 @@
   "tier": null,
   "title": "Senior Software Engineer, Network System Validation",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--Network-System-Validation_JR2023247-1"
+ },
+ "/job/Israel-Yokneam/Senior-Software-Engineer--Tools--Automation-and-AI_JR2026683": {
+  "first_seen": "2026-11-16T08:00:51+00:00",
+  "locations": [
+   "3 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Engineer, Tools, Automation and AI",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--Tools--Automation-and-AI_JR2026683"
  },
  "/job/Israel-Yokneam/Senior-Software-Engineer-Tech-Lead--Network-System-Validation_JR2025581": {
   "first_seen": "2026-11-01T17:16:34+00:00",
