@@ -321,6 +321,20 @@
   "title": "Tech Lead Eng, AWS , ElastiCache",
   "url": "https://www.amazon.jobs/en/jobs/10444995/tech-lead-eng-aws-elasticache"
  },
+ "10450644": {
+  "first_seen": "2026-11-17T10:45:33+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-06-16",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Development Engineer, RecsAI",
+  "url": "https://www.amazon.jobs/en/jobs/10450644/software-development-engineer-recsai"
+ },
  "10454437": {
   "first_seen": "2026-11-09T14:50:15+00:00",
   "locations": [
@@ -2090,7 +2104,7 @@
   "locations": [
    "Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-11-03",
   "reason": null,
   "score": null,
@@ -2448,6 +2462,20 @@
   "tier": null,
   "title": "Verification Engineer, Nitro Team",
   "url": "https://www.amazon.jobs/en/jobs/10605708/verification-engineer-nitro-team"
+ },
+ "10606907": {
+  "first_seen": "2026-11-17T10:45:33+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-17",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Public Sector Solutions Architect, Public Sector Solution Architecture",
+  "url": "https://www.amazon.jobs/en/jobs/10606907/public-sector-solutions-architect-public-sector-solution-architecture"
  },
  "3138774": {
   "first_seen": "2026-11-09T14:50:17+00:00",
