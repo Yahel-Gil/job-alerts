@@ -192,7 +192,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2025-11-11",
   "reason": null,
   "score": null,
@@ -207,7 +207,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2025-12-24",
   "reason": null,
   "score": null,
@@ -515,7 +515,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-06-23",
   "reason": null,
   "score": null,
