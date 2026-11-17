@@ -20,7 +20,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2025-03-08",
   "reason": null,
   "score": null,
@@ -78,7 +78,7 @@
   "locations": [
    "Israel"
   ],
-  "open": true,
+  "open": false,
   "posted": "2025-09-17",
   "reason": null,
   "score": null,
@@ -92,7 +92,7 @@
   "locations": [
    "Israel"
   ],
-  "open": true,
+  "open": false,
   "posted": "2025-09-28",
   "reason": null,
   "score": null,
@@ -601,7 +601,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-08-03",
   "reason": null,
   "score": null,
