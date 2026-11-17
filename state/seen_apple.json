@@ -34,7 +34,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-07-19",
   "reason": null,
   "score": null,
@@ -106,7 +106,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-08-17",
   "reason": null,
   "score": null,
@@ -120,7 +120,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-08-26",
   "reason": "המשרה דורשת תואר שני או דוקטורט בפוטוניקה ואופטיקה ומומחיות בסימולציות RCWA ו-FEM, ולכן לא מתאימה לך כרגע, אף שאת מוזמנת לשים לב לתחום אם תרצי בעתיד.",
   "score": 2,
@@ -135,7 +135,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2025-10-12",
   "reason": null,
   "score": null,
@@ -149,7 +149,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2025-10-19",
   "reason": null,
   "score": null,
@@ -163,7 +163,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2025-10-20",
   "reason": null,
   "score": null,
@@ -177,7 +177,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-09-14",
   "reason": null,
   "score": null,
@@ -221,7 +221,7 @@
   "locations": [
    "Haifa"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-02-23",
   "reason": null,
   "score": null,
@@ -235,7 +235,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-04-23",
   "reason": null,
   "score": null,
@@ -249,7 +249,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-09-14",
   "reason": null,
   "score": null,
@@ -263,7 +263,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-27",
   "reason": null,
   "score": null,
@@ -277,7 +277,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -291,7 +291,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -305,7 +305,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -319,7 +319,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -347,7 +347,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -361,7 +361,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -375,7 +375,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -389,7 +389,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-28",
   "reason": null,
   "score": null,
@@ -403,7 +403,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-29",
   "reason": null,
   "score": null,
@@ -417,7 +417,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-05-29",
   "reason": null,
   "score": null,
@@ -487,7 +487,7 @@
   "locations": [
    "Jerusalem"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-06-01",
   "reason": null,
   "score": null,
@@ -501,7 +501,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-06-03",
   "reason": null,
   "score": null,
@@ -543,7 +543,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-07-06",
   "reason": null,
   "score": null,
@@ -557,7 +557,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-07-15",
   "reason": null,
   "score": null,
@@ -571,7 +571,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-07-20",
   "reason": null,
   "score": null,
@@ -586,7 +586,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-08-03",
   "reason": null,
   "score": null,
@@ -648,7 +648,7 @@
    "Haifa",
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-08-26",
   "reason": null,
   "score": null,
@@ -662,7 +662,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-09-09",
   "reason": null,
   "score": null,
@@ -676,7 +676,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-09-07",
   "reason": null,
   "score": null,
@@ -690,7 +690,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-09-08",
   "reason": null,
   "score": null,
@@ -704,7 +704,7 @@
   "locations": [
    "Herzliya"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-09-10",
   "reason": null,
   "score": null,
