@@ -447,6 +447,20 @@
   "title": "Full-Stack Developer (Frontend Oriented)",
   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Full-Stack-Developer--Frontend-Oriented-_R2632648"
  },
+ "/job/RehovotISR/Global-Product-Support--GPS--Engineer_R2634007": {
+  "first_seen": "2026-11-18T15:15:30+00:00",
+  "locations": [
+   "Rehovot"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": "התפקיד בתחום תמיכה טכנולוגית למכונות מטרולוגיה לייצור שבבים, קרוב לתחום החומרה שאת מכוונת אליו, אבל הוא מיועד למהנדסים עם עד שנתיים ניסיון ומשלב נסיעות ותמיכה בלקוחות, כך שהוא פחות התאמה לתפקיד סטודנטית או מתמחה.",
+  "score": 6,
+  "sent": false,
+  "tier": "junior",
+  "title": "Global Product Support (GPS) Engineer",
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Global-Product-Support--GPS--Engineer_R2634007"
+ },
  "/job/RehovotISR/HW-Qual-Engineer_R2630445": {
   "first_seen": "2026-11-01T17:16:09+00:00",
   "locations": [
@@ -760,7 +774,7 @@
   "locations": [
    "Rehovot"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
