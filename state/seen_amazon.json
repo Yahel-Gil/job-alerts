@@ -1838,7 +1838,7 @@
   "locations": [
    "Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-22",
   "reason": null,
   "score": null,
@@ -2239,6 +2239,20 @@
   "title": "SoC Power Engineer, Graviton Team",
   "url": "https://www.amazon.jobs/en/jobs/10596400/soc-power-engineer-graviton-team"
  },
+ "10596405": {
+  "first_seen": "2026-11-18T08:45:30+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-05",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Logistics Manager",
+  "url": "https://www.amazon.jobs/en/jobs/10596405/logistics-manager"
+ },
  "10597413": {
   "first_seen": "2026-11-09T14:49:45+00:00",
   "locations": [
@@ -2504,6 +2518,20 @@
   "tier": null,
   "title": "Public Sector Solutions Architect, Public Sector Solution Architecture",
   "url": "https://www.amazon.jobs/en/jobs/10606907/public-sector-solutions-architect-public-sector-solution-architecture"
+ },
+ "10607861": {
+  "first_seen": "2026-11-18T08:45:30+00:00",
+  "locations": [
+   "Haifa"
+  ],
+  "open": true,
+  "posted": "2026-11-18",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Engineer - Networking drivers, ENA team",
+  "url": "https://www.amazon.jobs/en/jobs/10607861/embedded-software-engineer-networking-drivers-ena-team"
  },
  "3138774": {
   "first_seen": "2026-11-09T14:50:17+00:00",
