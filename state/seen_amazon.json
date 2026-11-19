@@ -1628,7 +1628,7 @@
   "locations": [
    "Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-10-14",
   "reason": null,
   "score": null,
@@ -2356,7 +2356,7 @@
   "locations": [
    "Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "2026-11-09",
   "reason": null,
   "score": null,
