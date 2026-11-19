@@ -1,5 +1,5 @@
 {
  "alerted": true,
- "failures": 108,
+ "failures": 109,
  "last_error": "SourceError: POST https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs failed after 3 tries: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
 }
