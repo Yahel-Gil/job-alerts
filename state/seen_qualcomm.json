@@ -370,7 +370,7 @@
   "locations": [
    "Hod Hasharon"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-10-06",
   "reason": null,
   "score": null,
@@ -384,7 +384,7 @@
   "locations": [
    "Hod Hasharon"
   ],
-  "open": false,
+  "open": true,
   "posted": "2026-10-06",
   "reason": null,
   "score": null,
@@ -532,5 +532,33 @@
   "tier": null,
   "title": "System Integration Engineer, Senior - Hod HaSharon",
   "url": "https://careers.qualcomm.com/careers/job/446721861371"
+ },
+ "446722223734": {
+  "first_seen": "2026-11-19T21:30:34+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Embedded Software Developer - Tel Aviv",
+  "url": "https://careers.qualcomm.com/careers/job/446722223734"
+ },
+ "446722225439": {
+  "first_seen": "2026-11-19T21:30:34+00:00",
+  "locations": [
+   "Tel Aviv"
+  ],
+  "open": true,
+  "posted": "2026-11-19",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Customer Engineer (CE) – Support",
+  "url": "https://careers.qualcomm.com/careers/job/446722225439"
  }
 }
