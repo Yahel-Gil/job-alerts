@@ -102,7 +102,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 7 Days Ago",
   "reason": null,
   "score": null,
@@ -475,6 +475,20 @@
   "title": "Senior SONiC Software Engineer - Python",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-SONiC-Software-Engineer---Python_JR2014087"
  },
+ "/job/Israel-Raanana/Senior-Software-Architect--AI-Network_JR2018051": {
+  "first_seen": "2026-11-19T16:31:05+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Software Architect, AI Network",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Architect--AI-Network_JR2018051"
+ },
  "/job/Israel-Raanana/Senior-Software-Architect--Cyber-Security_JR2000395": {
   "first_seen": "2026-11-01T17:16:36+00:00",
   "locations": [
@@ -788,7 +802,7 @@
   "locations": [
    "Israel, Raanana"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -993,6 +1007,20 @@
   "title": "Chip Design Verification Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2023454-1"
  },
+ "/job/Israel-Tel-Aviv/DFT-Insertion-Engineer_JR2029765": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": "התפקיד הזה מתאים לך בתחום ה-DFT וה-ASIC, אבל הוא דורש ניסיון טכני ספציפי בכלי ATPG/SCAN שאין לך עדיין, ולכן הוא פחות מתאים לתפקיד סטודנטית או מתמחה.",
+  "score": 6,
+  "sent": false,
+  "tier": "junior",
+  "title": "DFT Insertion Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/DFT-Insertion-Engineer_JR2029765"
+ },
  "/job/Israel-Tel-Aviv/DFT-Verification-Engineer_JR2020801": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
@@ -1160,6 +1188,20 @@
   "tier": "junior",
   "title": "Physical Design Backend Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2013310"
+ },
+ "/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2026772": {
+  "first_seen": "2026-11-19T16:31:03+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": "התפקיד הזה דורש ניסיון מוכח ב-RTL2GDS ובזרימות Place & Route ו-STA, ולכן הוא פחות מתאים לך כסטודנטית, אבל יש בו חפיפה לעיצוב פיזי ולמיומנויות הדיגיטליות שלך.",
+  "score": 5,
+  "sent": false,
+  "tier": "junior",
+  "title": "Physical Design Backend Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2026772"
  },
  "/job/Israel-Tel-Aviv/Physical-Design-Engineer_JR2022233": {
   "first_seen": "2026-11-01T17:16:34+00:00",
@@ -1426,6 +1468,20 @@
   "tier": null,
   "title": "Senior AI Verification Chip Design Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-Verification-Chip-Design-Engineer_JR2020911"
+ },
+ "/job/Israel-Tel-Aviv/Senior-ASIC-Low-Power-Integration-and-AI-Engineer_JR2029715": {
+  "first_seen": "2026-11-19T16:31:03+00:00",
+  "locations": [
+   "4 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior ASIC Low-Power Integration and AI Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-ASIC-Low-Power-Integration-and-AI-Engineer_JR2029715"
  },
  "/job/Israel-Tel-Aviv/Senior-Advanced-Development-Engineer--GPU-Networking_JR2000660": {
   "first_seen": "2026-11-04T12:15:47+00:00",
@@ -1726,7 +1782,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -2925,6 +2981,20 @@
   "title": "Senior VLSI Integration Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR1989467"
  },
+ "/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR2029862": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "4 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior VLSI Integration Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR2029862"
+ },
  "/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2009388": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
@@ -2938,6 +3008,34 @@
   "tier": null,
   "title": "SoC Clocks Design Automation Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2009388"
+ },
+ "/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2029866": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "3 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "SoC Clocks Design Automation Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2029866"
+ },
+ "/job/Israel-Tel-Aviv/Software-Developer_JR2028112": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "3 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Developer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Developer_JR2028112"
  },
  "/job/Israel-Tel-Aviv/Software-Embedded-Engineer--DOCA_JR2027291-1": {
   "first_seen": "2026-11-03T12:30:50+00:00",
@@ -2972,7 +3070,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -3036,6 +3134,20 @@
   "tier": null,
   "title": "Chip Solution Architect",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Solution-Architect_JR2011672"
+ },
+ "/job/Israel-Tel-Aviv/VLSI-Integration-Engineer_JR2029860": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "4 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "VLSI Integration Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/VLSI-Integration-Engineer_JR2029860"
  },
  "/job/Israel-Tel-Hai/Firmware-Core-Engineer_JR1999896": {
   "first_seen": "2026-11-01T17:16:34+00:00",
@@ -3163,6 +3275,20 @@
   "title": "Senior Chip Design Verification Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2013523"
  },
+ "/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2029934": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Chip Design Verification Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2029934"
+ },
  "/job/Israel-Yokneam/Chip-Modeling-Architect_JR2020707": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
@@ -3218,6 +3344,20 @@
   "tier": "junior",
   "title": "DFT ATPG Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DFT-ATPG-Engineer_JR2029798"
+ },
+ "/job/Israel-Yokneam/DFT-ATPG-Engineer_JR2029944": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "DFT ATPG Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DFT-ATPG-Engineer_JR2029944"
  },
  "/job/Israel-Yokneam/DPU-Performance-Validation-Engineer_JR2023305": {
   "first_seen": "2026-11-01T17:16:34+00:00",
@@ -3499,6 +3639,20 @@
   "title": "Hardware Architect, Deep Learning GPU and System",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2010238"
  },
+ "/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2029852": {
+  "first_seen": "2026-11-19T16:31:03+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Hardware Architect, Deep Learning GPU and System",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2029852"
+ },
  "/job/Israel-Yokneam/Hardware-Board-Design-Engineer_JR2020207": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
@@ -3728,7 +3882,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -4031,12 +4185,26 @@
   "title": "Physical Design Backend STA Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Backend-STA-Engineer_JR2011531"
  },
+ "/job/Israel-Yokneam/Physical-Design-Backend-STA-Engineer_JR2029865": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design Backend STA Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Backend-STA-Engineer_JR2029865"
+ },
  "/job/Israel-Yokneam/Physical-Design-CAD-Engineer_JR2010794": {
   "first_seen": "2026-11-01T17:16:34+00:00",
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -4044,6 +4212,34 @@
   "tier": null,
   "title": "Physical Design CAD Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-CAD-Engineer_JR2010794"
+ },
+ "/job/Israel-Yokneam/Physical-Design-CAD-Engineer_JR2029951-1": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design CAD Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-CAD-Engineer_JR2029951-1"
+ },
+ "/job/Israel-Yokneam/Physical-Design-Power-Optimization-Engineer_JR2029955": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Physical Design Power Optimization Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Power-Optimization-Engineer_JR2029955"
  },
  "/job/Israel-Yokneam/Physical-Design-Power-Optimization-and-Modeling-Engineer_JR2023707": {
   "first_seen": "2026-11-01T17:16:34+00:00",
@@ -4414,7 +4610,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -4484,7 +4680,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -4498,7 +4694,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 18 Days Ago",
   "reason": null,
   "score": null,
@@ -5310,7 +5506,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -5506,7 +5702,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -5576,7 +5772,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -5730,7 +5926,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -5758,7 +5954,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -5954,7 +6150,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -6262,7 +6458,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -6290,7 +6486,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 11 Days Ago",
   "reason": null,
   "score": null,
@@ -6318,7 +6514,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 4 Days Ago",
   "reason": null,
   "score": null,
@@ -6542,7 +6738,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -6654,7 +6850,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -6662,6 +6858,20 @@
   "tier": null,
   "title": "Senior VLSI CAD and AI Automation Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-VLSI-CAD-and-AI-Automation-Engineer_JR1997583"
+ },
+ "/job/Israel-Yokneam/Senior-VLSI-CAD-and-AI-Automation-Engineer_JR2029800": {
+  "first_seen": "2026-11-19T16:31:03+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior VLSI CAD and AI Automation Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-VLSI-CAD-and-AI-Automation-Engineer_JR2029800"
  },
  "/job/Israel-Yokneam/Senior-Verification-Engineer--Chip-Design_JR2007464": {
   "first_seen": "2026-11-01T17:16:34+00:00",
@@ -6752,7 +6962,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -6780,7 +6990,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -6788,6 +6998,20 @@
   "tier": null,
   "title": "Software Engineer - Python, C++, Video Algorithms",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer---Python--C----Video-Algorithms_JR2026084-9"
+ },
+ "/job/Israel-Yokneam/Software-Engineer--Chip-Design_JR2030081": {
+  "first_seen": "2026-11-19T16:30:58+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Engineer, Chip Design",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Chip-Design_JR2030081"
  },
  "/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037": {
   "first_seen": "2026-11-08T11:00:56+00:00",
@@ -6976,7 +7200,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 12 Days Ago",
   "reason": null,
   "score": null,
