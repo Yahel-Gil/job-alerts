@@ -1,5 +1,5 @@
 {
  "alerted": false,
- "failures": 1,
- "last_error": "SourceError: GET https://careers.qualcomm.com/api/pcsx/search failed after 3 tries: HTTPSConnectionPool(host='careers.qualcomm.com', port=443): Read timed out. (read timeout=30)"
+ "failures": 0,
+ "last_error": null
 }
