@@ -368,7 +368,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 18 Days Ago",
   "reason": null,
   "score": null,
@@ -2972,7 +2972,7 @@
   "locations": [
    "4 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -3000,7 +3000,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -4548,6 +4548,20 @@
   "tier": null,
   "title": "Senior Chip Architect",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Chip-Architect_JR2023093"
+ },
+ "/job/Israel-Yokneam/Senior-Chip-Architect_JR2030397": {
+  "first_seen": "2026-11-21T02:30:46+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Chip Architect",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Chip-Architect_JR2030397"
  },
  "/job/Israel-Yokneam/Senior-Chip-Design-Verification-Engineer_JR2016427": {
   "first_seen": "2026-11-01T17:16:34+00:00",
