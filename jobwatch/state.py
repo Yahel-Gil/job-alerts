@@ -1,7 +1,7 @@
 """Per-company JSON state under state/. One file per company so parallel runs never touch the same file.
 
 seen_<company>.json: {job_id: {title, url, locations, posted, first_seen, open, tier, score, reason, sent}}
-health_<company>.json: {failures, alerted, last_error}
+health_<company>.json: {failures, alerted, last_error, next_try?}  next_try: skip the site until then after a 429
 """
 import json
 

@@ -5,6 +5,10 @@ class SourceError(Exception):
     """A career site answered in a way we don't understand (down, blocked, or changed structure)."""
 
 
+class RateLimited(SourceError):
+    """The site kept answering 429/503 ("too many requests"). Back off instead of hammering it."""
+
+
 @dataclass
 class Job:
     company: str

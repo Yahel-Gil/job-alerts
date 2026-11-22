@@ -28,12 +28,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      # NVIDIA, Intel and AMAT all run on Workday, which answers 429 when they hit it at the same second.
+      - name: Spread out Workday requests
+        if: contains(fromJSON('["nvidia","intel","amat"]'), matrix.company)
+        run: |
+          case "${{ matrix.company }}" in nvidia) base=0 ;; intel) base=50 ;; amat) base=100 ;; esac
+          sleep $(( base + RANDOM % 30 ))
       - name: Scan ${{ matrix.company }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

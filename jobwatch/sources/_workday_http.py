@@ -3,10 +3,21 @@
 Only the transport lives here. Which facet means "Israel", which facet marks a student,
 and how a posting becomes a Job is decided separately in each company's module.
 """
+import random
+import time
+
 from ..http import get_json
 from ..models import SourceError
 
 PAGE = 20  # Workday refuses larger pages
+# Workday answers 429 to bursts from cloud IPs, so space requests out a little.
+PAUSE = (1.0, 2.5)
+
+
+def _get(*args, **kw) -> dict:
+    if PAUSE:
+        time.sleep(random.uniform(*PAUSE))
+    return get_json(*args, **kw)
 
 
 def base_url(host: str, tenant: str, site: str) -> str:
@@ -15,7 +26,7 @@ def base_url(host: str, tenant: str, site: str) -> str:
 
 def search(s, base: str, applied_facets: dict, offset: int = 0) -> dict:
     body = {"appliedFacets": applied_facets, "limit": PAGE, "offset": offset, "searchText": ""}
-    return get_json(s, "POST", f"{base}/jobs", json=body)
+    return _get(s, "POST", f"{base}/jobs", json=body)
 
 
 def all_postings(s, base: str, applied_facets: dict) -> tuple[list[dict], list[dict]]:
@@ -60,4 +71,4 @@ def facet_ids(facets: list[dict], param: str, match) -> list[str]:
 
 
 def job_detail(s, base: str, external_path: str) -> dict:
-    return get_json(s, "GET", f"{base}{external_path}").get("jobPostingInfo", {})
+    return _get(s, "GET", f"{base}{external_path}").get("jobPostingInfo", {})

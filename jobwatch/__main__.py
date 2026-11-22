@@ -14,10 +14,13 @@ from datetime import datetime, timedelta, timezone
 
 from . import ai_score, config, filters, notify, state
 from .http import session
-from .models import SourceError
+from .models import RateLimited, SourceError
 from .sources import SOURCES
 
 PRUNE_CLOSED_AFTER = timedelta(days=90)
+# After a site rate-limits us, leave it alone for a while (doubling each time) instead of
+# hitting it every 15 minutes, which keeps the block going.
+COOLDOWN_BASE, COOLDOWN_MAX = timedelta(minutes=15), timedelta(hours=2)
 
 
 def _now() -> datetime:
@@ -46,8 +49,15 @@ def _evaluate(src, s, job, cfg) -> dict:
     return rec
 
 
-def _health(name: str, error: str | None, cfg: dict, dry_run: bool) -> None:
+def _cooling_down(name: str) -> str | None:
+    """ISO time until which this site should be skipped, if it rate-limited us recently."""
+    until = (state.load("health", name) or {}).get("next_try")
+    return until if until and until > _now().isoformat() else None
+
+
+def _health(name: str, error: str | None, cfg: dict, dry_run: bool, limited: bool = False) -> None:
     h = state.load("health", name) or {"failures": 0, "alerted": False, "last_error": None}
+    h.pop("next_try", None)
     display = SOURCES[name].DISPLAY
     if error is None:
         if h["alerted"]:
@@ -56,10 +66,14 @@ def _health(name: str, error: str | None, cfg: dict, dry_run: bool) -> None:
     else:
         h["failures"] += 1
         h["last_error"] = error[:500]
+        if limited:
+            wait = min(COOLDOWN_BASE * 2 ** (h["failures"] - 1), COOLDOWN_MAX)
+            h["next_try"] = (_now() + wait).isoformat(timespec="seconds")
         if h["failures"] >= cfg["health_alert_after_failures"] and not h["alerted"]:
             notify.send(
                 f"⚠️ הסריקה של {display} נכשלה {h['failures']} פעמים ברצף.\n"
-                f"ייתכן שהאתר שינה מבנה. עד שזה יתוקן, כדאי לבדוק אותו ידנית.\n\n<code>{notify.esc(error[:300])}</code>",
+                + ("האתר חוסם זמנית בגלל עומס בקשות (429). הסריקה תנסה שוב בהדרגה. בינתיים כדאי לבדוק אותו ידנית."
+                   if limited else "ייתכן שהאתר שינה מבנה. עד שזה יתוקן, כדאי לבדוק אותו ידנית.") + f"\n\n<code>{notify.esc(error[:300])}</code>",
                 admin=True, dry_run=dry_run)
             h["alerted"] = True
     if not dry_run:
@@ -70,13 +84,17 @@ def scan(name: str, cfg: dict, dry_run: bool, rescore: bool = False) -> None:
     src = SOURCES[name]
     s = session()
     print(f"== {src.DISPLAY}")
+    until = None if dry_run else _cooling_down(name)
+    if until:
+        print(f"  skipped: rate-limited earlier, next try after {until}")
+        return
     try:
         jobs = src.fetch_jobs(s)
         if not jobs:
             raise SourceError("0 jobs in Israel")
     except Exception as e:  # any failure here means the site is down, blocking us, or changed
         print(f"  FAILED: {e}")
-        _health(name, f"{type(e).__name__}: {e}", cfg, dry_run)
+        _health(name, f"{type(e).__name__}: {e}", cfg, dry_run, limited=isinstance(e, RateLimited))
         return
     _health(name, None, cfg, dry_run)
 

@@ -127,3 +127,34 @@ def test_rescore_sends_unsent_open_jobs_once(env, monkeypatch):
     assert rec["sent"] and rec["first_seen"] == first_seen
     app.scan("fake", CFG, dry_run=False, rescore=True)    # already sent: not sent again
     assert len(sent) == 2
+
+
+def test_rate_limited_site_cools_down_then_recovers(env, monkeypatch):
+    from datetime import timedelta
+    from jobwatch.models import RateLimited
+    site, sent = env
+    clock = [app._now()]
+    monkeypatch.setattr(app, "_now", lambda: clock[0])
+    calls = []
+
+    def blocked(s):
+        calls.append(1)
+        raise RateLimited("429 Too Many Requests")
+
+    site.fetch_jobs = blocked
+    app.scan("fake", CFG, dry_run=False)
+    assert len(calls) == 1 and state.load("health", "fake")["next_try"]
+
+    clock[0] += timedelta(minutes=5)
+    app.scan("fake", CFG, dry_run=False)  # still cooling down: the site is not touched
+    assert len(calls) == 1
+
+    clock[0] += timedelta(minutes=11)
+    app.scan("fake", CFG, dry_run=False)  # 15 min passed: try again, fail, wait 30 min now
+    assert len(calls) == 2 and state.load("health", "fake")["failures"] == 2
+
+    clock[0] += timedelta(minutes=31)
+    site.fetch_jobs = lambda s: [J("1", "Hardware Student")]
+    app.scan("fake", CFG, dry_run=False)
+    h = state.load("health", "fake")
+    assert h["failures"] == 0 and "next_try" not in h
