@@ -1,6 +1,6 @@
 {
  "alerted": true,
- "failures": 17,
+ "failures": 18,
  "last_error": "RateLimited: POST https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs failed after 3 tries: 429 Client Error: Too Many Requests for url: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs",
- "next_try": "2026-11-23T02:48:17+00:00"
+ "next_try": "2026-11-23T05:03:52+00:00"
 }
