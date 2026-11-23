@@ -270,7 +270,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 14 Days Ago",
   "reason": null,
   "score": null,
@@ -886,7 +886,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -1824,7 +1824,7 @@
   "locations": [
    "Israel, Tel Aviv"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -3037,6 +3037,20 @@
   "title": "SoC Clocks Design Automation Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2029866"
  },
+ "/job/Israel-Tel-Aviv/Software-Architect--GPU-Networking_JR2030556": {
+  "first_seen": "2026-11-23T21:32:05+00:00",
+  "locations": [
+   "3 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Software Architect, GPU Networking",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Architect--GPU-Networking_JR2030556"
+ },
  "/job/Israel-Tel-Aviv/Software-Developer_JR2028112": {
   "first_seen": "2026-11-19T16:30:58+00:00",
   "locations": [
@@ -3504,7 +3518,7 @@
   "locations": [
    "3 Locations"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 3 Days Ago",
   "reason": null,
   "score": null,
@@ -3630,7 +3644,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -3700,7 +3714,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Yesterday",
   "reason": null,
   "score": null,
@@ -4204,7 +4218,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -4758,6 +4772,20 @@
   "tier": null,
   "title": "Senior DevOps Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DevOps-Engineer_JR2029070"
+ },
+ "/job/Israel-Yokneam/Senior-Director--Integrated-Circuit-Product-Engineering_JR2030089": {
+  "first_seen": "2026-11-23T21:32:05+00:00",
+  "locations": [
+   "Israel, Yokneam"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Senior Director, Integrated Circuit Product Engineering",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Director--Integrated-Circuit-Product-Engineering_JR2030089"
  },
  "/job/Israel-Yokneam/Senior-E2E-Hardware-Architect--AI-Networking_JR2029469": {
   "first_seen": "2026-11-12T12:01:13+00:00",
@@ -6514,7 +6542,7 @@
   "locations": [
    "Israel, Yokneam"
   ],
-  "open": false,
+  "open": true,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
@@ -6542,7 +6570,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 22 Days Ago",
   "reason": null,
   "score": null,
@@ -6654,7 +6682,7 @@
   "locations": [
    "2 Locations"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted 30+ Days Ago",
   "reason": null,
   "score": null,
