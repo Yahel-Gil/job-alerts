@@ -256,7 +256,7 @@
   "locations": [
    "Israel, Kiryat-Gat"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -307,12 +307,40 @@
   "title": "Facilities Experienced Electrical Engineer - Kiryat Gat",
   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Facilities-Experienced-Electrical-Engineer---Kiryat-Gat_JR0287568"
  },
+ "/job/Israel-Kiryat-Gat/Industrial-Engineering-and-Management-Student_JR0289366-1": {
+  "first_seen": "2026-11-24T10:32:51+00:00",
+  "locations": [
+   "Israel, Kiryat-Gat"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": true,
+  "tier": "student",
+  "title": "Industrial Engineering and Management Student",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Industrial-Engineering-and-Management-Student_JR0289366-1"
+ },
+ "/job/Israel-Kiryat-Gat/Industrial-Waste-Systems-Practical-Engineering-Student-Working-in-Shifts---Kiryat-Gat_JR0289427": {
+  "first_seen": "2026-11-24T10:32:47+00:00",
+  "locations": [
+   "Israel, Kiryat-Gat"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": true,
+  "tier": "student",
+  "title": "Industrial Waste Systems Practical Engineering Student Working in Shifts - Kiryat Gat",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Industrial-Waste-Systems-Practical-Engineering-Student-Working-in-Shifts---Kiryat-Gat_JR0289427"
+ },
  "/job/Israel-Kiryat-Gat/Manufacturing-Technician-for-Intel-Kiryat-Gat_JR0288605": {
   "first_seen": "2026-11-09T10:30:34+00:00",
   "locations": [
    "Israel, Kiryat-Gat"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": null,
   "score": null,
@@ -433,12 +461,26 @@
   "title": "Practical Engineering Student -  Kiryat Gat",
   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Practical-Engineering-Student----Kiryat-Gat_JR0281401"
  },
+ "/job/Israel-Kiryat-Gat/Practical-Engineering-Student-Working-in-Shifts---Kiryat-Gat_JR0289426": {
+  "first_seen": "2026-11-24T10:32:49+00:00",
+  "locations": [
+   "Israel, Kiryat-Gat"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": true,
+  "tier": "student",
+  "title": "Practical Engineering Student Working in Shifts - Kiryat Gat",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Practical-Engineering-Student-Working-in-Shifts---Kiryat-Gat_JR0289426"
+ },
  "/job/Israel-Kiryat-Gat/Practical-Engineering-Student-for-Intel-Kiryat-Gat_JR0289115-1": {
   "first_seen": "2026-11-16T11:30:33+00:00",
   "locations": [
    "Israel, Kiryat-Gat"
   ],
-  "open": true,
+  "open": false,
   "posted": "Posted Today",
   "reason": "המשרה הזו היא הנדסה מעשית במפעל ייצור לתחום מכני ומכטרוניקה ודורשת עבודה במשמרות ובחדר נקי, ולכן היא פחות מתאימה לך כמהנדסת חשמל ואלקטרוניקה שמחפשת תפקידי תכנון, אימות או אפיון סיליקון.",
   "score": 3,
@@ -475,6 +517,34 @@
   "title": "Project Cost Engineer",
   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Project-Cost-Engineer_JR0289021"
  },
+ "/job/Israel-Kiryat-Gat/Software-Applications-Engineering-Student_JR0288169": {
+  "first_seen": "2026-11-24T10:32:44+00:00",
+  "locations": [
+   "Israel, Kiryat-Gat"
+  ],
+  "open": true,
+  "posted": "Posted Today",
+  "reason": null,
+  "score": null,
+  "sent": true,
+  "tier": "student",
+  "title": "Software Applications Engineering Student",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Software-Applications-Engineering-Student_JR0288169"
+ },
+ "/job/Israel-Kiryat-Gat/Supply-Chain-Analyst_JR0288787": {
+  "first_seen": "2026-11-24T10:33:41+00:00",
+  "locations": [
+   "2 Locations"
+  ],
+  "open": true,
+  "posted": "Posted Yesterday",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Supply Chain Analyst",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Supply-Chain-Analyst_JR0288787"
+ },
  "/job/Israel-Petah-Tikva/AI-Software-Development-Student_JR0288632-1": {
   "first_seen": "2026-11-04T12:15:30+00:00",
   "locations": [
@@ -488,6 +558,20 @@
   "tier": "student",
   "title": "AI Software Development Student",
   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/AI-Software-Development-Student_JR0288632-1"
+ },
+ "/job/Israel-Petah-Tikva/Logic-Design-Team-Lead-Manager_JR0289541": {
+  "first_seen": "2026-11-24T10:33:41+00:00",
+  "locations": [
+   "Israel, Petah-Tikva"
+  ],
+  "open": true,
+  "posted": "Posted 2 Days Ago",
+  "reason": null,
+  "score": null,
+  "sent": false,
+  "tier": null,
+  "title": "Logic Design Team Lead\\Manager",
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Logic-Design-Team-Lead-Manager_JR0289541"
  },
  "/job/Israel-Petah-Tikva/Senior-CPU-Logic-Design-Engineer_JR0289260": {
   "first_seen": "2026-11-18T17:45:31+00:00",
