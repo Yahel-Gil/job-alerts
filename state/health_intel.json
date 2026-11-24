@@ -1,6 +1,6 @@
 {
  "alerted": true,
- "failures": 20,
+ "failures": 21,
  "last_error": "RateLimited: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs failed after 3 tries: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
- "next_try": "2026-11-24T01:17:41+00:00"
+ "next_try": "2026-11-24T03:32:18+00:00"
 }
